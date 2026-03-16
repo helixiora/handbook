@@ -1,5 +1,6 @@
+{{ $wordmark := resources.Get "helixiora_logo_dark_blue-5620524c-8e63-4acf-91aa-ed01a882bfe3.png" }}
 <img
-  src="{{ "helixiora_logo_dark_blue-5620524c-8e63-4acf-91aa-ed01a882bfe3.png" | relURL }}"
+  src="{{ $wordmark.RelPermalink }}"
   alt="Helixiora"
   class="brand-wordmark"
 />
