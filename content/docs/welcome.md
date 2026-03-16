@@ -21,11 +21,11 @@ The handbook is for practical operating guidance: onboarding, ways of working, l
 
 ## Who owns or approves it
 
-Founders and managers own handbook content, with input from Finance, IT, and leadership for domain-specific sections.
+Robin and Walter own handbook content, with domain-specific input where needed.
 
 ## Where to go in the tool stack
 
-- Your manager, calendar, and Slack for leave and availability
+- Robin, calendar, and Slack for leave and availability
 - The payroll route that matches your country and contract form
 - Deel or email for expenses, depending on contract form
 - Walter for access and device support
@@ -34,4 +34,4 @@ Founders and managers own handbook content, with input from Finance, IT, and lea
 
 If handbook guidance conflicts with your contract or applicable law, your contract and local law take precedence.
 
-If a process in this handbook fails in practice, raise it in the relevant owner channel and notify your manager so the page can be corrected.
+If a process in this handbook fails in practice, raise it in the relevant owner channel and notify Robin or Walter so the page can be corrected.

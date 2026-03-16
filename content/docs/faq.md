@@ -21,7 +21,7 @@ Use the payroll support route described in [Compensation & Benefits](/docs/compe
 
 ### How do I book leave?
 
-Ask your manager, then keep the absence visible in your calendar and Slack as described in [Time Off & Holidays](/docs/time-off/).
+Ask Robin, then keep the absence visible in your calendar and Slack as described in [Time Off & Holidays](/docs/time-off/).
 
 ### What if I am sick?
 
@@ -29,7 +29,7 @@ Follow the same-day process in [Time Off & Holidays](/docs/time-off/).
 
 ### Can I buy software myself?
 
-Ask for manager approval first, then follow [Expenses](/docs/expenses/).
+Ask Robin or Walter for approval first, then follow [Expenses](/docs/expenses/).
 
 ### What happens at Helixiora Connect?
 
@@ -45,11 +45,11 @@ See [Your First Day](/docs/first-day/) and [Tools & Support](/docs/tools-and-sup
 
 ## Who owns or approves it
 
-Managers and founders own this page and route updates to Finance, IT, and leadership as needed.
+Robin and Walter own this page and route updates as needed.
 
 ## Where to go in the tool stack
 
-Follow the linked page for each question. In practice, many answers today are a direct route to your manager, Robin, Walter, Deel, or your contract-specific payroll setup rather than a single company portal.
+Follow the linked page for each question. In practice, many answers today are a direct route to Robin, Walter, Deel, or your contract-specific payroll setup rather than a single company portal.
 
 ## What happens if something goes wrong
 

@@ -16,11 +16,11 @@ Use one clear system per task:
 | Passwords and account secrets | [1Password](https://1password.com/) | Everyone |
 | Internal communication | [Slack](https://helixiora.slack.com) | Everyone |
 | Email, calendar, and docs | [Google Workspace](https://workspace.google.com/) | Everyone |
-| Project planning, documentation, issues, and strategy | [ClickUp](https://app.clickup.com/) | Team leads and managers |
+| Project planning, documentation, issues, and strategy | [ClickUp](https://app.clickup.com/) | Robin and Walter |
 | Source control and code collaboration | [GitHub (Helixiora)](https://github.com/helixiora) | Engineering |
 | Billable and contract-based time registration | [Harvest](https://id.getharvest.com/) | People with billable hours or contract-based work |
-| Leave and sick leave | Your manager, plus calendar and Slack visibility | Everyone |
-| Receipts and reimbursements | Deel or email, depending on contract form | Finance / your manager |
+| Leave and sick leave | Robin, plus calendar and Slack visibility | Everyone |
+| Receipts and reimbursements | Deel or email, depending on contract form | Finance / Robin |
 | Payslips and tax documents | Depends on country and contract form | Robin |
 | Access and device support | Ask Walter directly | Walter |
 | Website CMS | [WordPress](https://wordpress.com/) | Marketing / Web owner |
@@ -29,14 +29,26 @@ Use one clear system per task:
 
 There is currently no single HR portal. Some admin workflows still depend on country and contract form.
 
+## Role-based starter kits
+
+Because Helixiora does consulting work, client context may add or replace tools. Start with the Helixiora baseline below, then add only the client-specific tools the project actually needs.
+
+| Role category | Default toolkit | Notes |
+| --- | --- | --- |
+| Everyone | 1Password, Slack, Google Workspace, ClickUp | This is the company-wide baseline. |
+| Engineering | GitHub, local development tools, approved AI tooling, and only the cloud/platform access needed for the current project | See the [Engineering Starter Kit](/docs/engineering-starter-kit/). |
+| Leadership | ClickUp, Google Workspace, Slack, and Harvest when time registration applies | Robin and Walter use this with people, growth, and expense workflows. |
+| Finance and payroll coordination | Google Workspace, Slack, Deel, and country- or contract-specific payroll routes | See [Compensation & Benefits](/docs/compensation-and-benefits/). |
+| Marketing and web | WordPress, Figma, Canva, LinkedIn, Google Workspace, and Slack | Use the team-specific workspace URLs where they exist. |
+
 ## Support channels
 
 Use clear rules for where support should start:
 
 - Internal coordination: use Slack channels by default.
 - Time registration: use Harvest if you run billable hours or work on a contract basis.
-- Leave and sick leave: tell your manager directly and keep your calendar and Slack status accurate.
-- Expense questions: use Deel or the email route that matches your contract form. Ask your manager if you are unsure.
+- Leave and sick leave: tell Robin directly and keep your calendar and Slack status accurate.
+- Expense questions: use Deel or the email route that matches your contract form. Ask Robin if you are unsure.
 - Payroll questions: ask Robin.
 - Project and documentation questions: use the relevant ClickUp space/task.
 - Code and engineering collaboration: use GitHub issues and pull requests.

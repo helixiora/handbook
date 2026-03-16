@@ -25,7 +25,7 @@ We do not observe a fixed India national-holiday list. India has many public hol
 
 This works alongside our unlimited holiday leave policy. We will formalize India-specific guidance further over time.
 
-When in doubt, discuss your holiday plan with your manager.
+When in doubt, discuss your holiday plan with Robin.
 
 ## Hiring policy for India
 
@@ -33,7 +33,7 @@ NOTICE: We do not normally hire in India as a standard location (outside NL hiri
 
 ## Who owns or approves it
 
-Until we have a formal People Operations function, your manager and the founders own this appendix and approve any India exception hiring case.
+Until we have a formal People Operations function, Robin owns this appendix and approves any India exception hiring case.
 
 ## Where to go in the tool stack
 
@@ -41,7 +41,7 @@ We hire in India through [Deel](https://www.deel.com/country-explorer/india). Yo
 
 ## What happens if something goes wrong
 
-If holiday planning, hiring status, or Deel setup details are unclear, raise it with your manager before taking action.
+If holiday planning, hiring status, or Deel setup details are unclear, raise it with Robin before taking action.
 
 ## Related pages
 

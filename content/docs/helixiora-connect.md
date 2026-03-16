@@ -16,8 +16,8 @@ This page explains what Helixiora Connect is, why it matters, and how to handle 
 - Treat Helixiora Connect as an important company moment, not an optional afterthought.
 - Plan travel early and use reasonable booking choices.
 - Follow the normal expense route for your contract form and keep receipts.
-- Discuss hotels, flights, or other costs over EUR 200 with your manager in advance where possible.
-- Tell your manager early if something may affect your attendance or travel plan.
+- Discuss hotels, flights, or other costs over EUR 200 with Robin in advance where possible.
+- Tell Robin early if something may affect your attendance or travel plan.
 
 ## What Helixiora Connect is
 
@@ -72,14 +72,14 @@ For the broader travel rules, also read [Travel & Helixiora Connect](/docs/trave
 
 ## Who owns or approves it
 
-Founders and managers own Helixiora Connect planning and expectations. Your manager is the first point of contact for attendance, booking questions, and higher-cost exceptions.
+Robin and Walter own Helixiora Connect planning and expectations. Robin is the first point of contact for attendance, booking questions, and higher-cost exceptions.
 
 ## Where to go in the tool stack
 
 - Calendar for event timing and travel planning
-- Your manager for approval questions or exceptions
+- Robin for approval questions or exceptions
 - Deel or email for expenses, depending on your contract form
 
 ## What happens if something goes wrong
 
-If travel changes, costs increase, or you may not be able to attend, raise it early with your manager so the plan can be adjusted without last-minute surprises.
+If travel changes, costs increase, or you may not be able to attend, raise it early with Robin so the plan can be adjusted without last-minute surprises.

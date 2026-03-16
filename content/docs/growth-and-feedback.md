@@ -13,7 +13,7 @@ This page explains how performance, development, and role growth work in practic
 
 ## What you should do
 
-- Align on priorities and outcomes with your manager.
+- Align on priorities and outcomes with Robin or Walter.
 - Attend regular check-ins and bring concrete progress/blockers.
 - Ask for feedback early and give feedback constructively.
 - Use available learning support to build role-relevant capability.
@@ -25,7 +25,7 @@ Helixiora keeps this lightweight on purpose because the team is still small.
 
 ### 1:1s
 
-Regular 1:1s with your manager are the main rhythm for feedback, coaching, and development planning. Use them to discuss priorities, blockers, performance, and growth.
+Regular 1:1s with Robin or Walter are the main rhythm for feedback, coaching, and development planning. Use them to discuss priorities, blockers, performance, and growth.
 
 ### Reviews
 
@@ -33,25 +33,25 @@ We aim to do formal reviews once per quarter. In practice, timing can move a lit
 
 ### Raises and promotions
 
-Raises and promotions are decided case by case rather than through a rigid annual cycle. Your manager and the founders look at scope, impact, consistency, and company context when making those decisions.
+Raises and promotions are decided case by case rather than through a rigid annual cycle. Robin and Walter look at scope, impact, consistency, and company context when making those decisions.
 
 ### Learning and development
 
-We do not currently have a fixed learning budget or a formal company-wide competency framework. If a course, event, coaching, or other development spend would help you do better work, ask your manager.
+We do not currently have a fixed learning budget or a formal company-wide competency framework. If a course, event, coaching, or other development spend would help you do better work, ask Robin or Walter.
 
 ## Who owns or approves it
 
-Managers own day-to-day coaching and regular 1:1s. Founders decide case-by-case raises and promotions with manager input.
+Robin and Walter currently own day-to-day coaching, regular 1:1s, and case-by-case raises and promotions.
 
 ## Where to go in the tool stack
 
 - Calendar for 1:1 cadence and review scheduling
 - Shared docs or notes for written feedback and follow-up
-- Your manager for any learning or development request
+- Robin or Walter for any learning or development request
 
 ## What happens if something goes wrong
 
-If expectations feel unclear, ask your manager to write down what good performance looks like in your role. If regular check-ins or reviews are slipping, raise it directly instead of letting it drift.
+If expectations feel unclear, ask Robin or Walter to write down what good performance looks like in your role. If regular check-ins or reviews are slipping, raise it directly instead of letting it drift.
 
 ## Related pages
 

@@ -39,18 +39,31 @@ Use this page to understand Helixiora's core direction:
 - We use a trust-but-verify mindset.
 - On disagreement, we seek consensus and what works best for the most people; the CEO can make the final decision when needed, but the goal is to solve issues before that point.
 
+## Current operating roles
+
+The formal org chart will evolve as Helixiora grows, but the operating map today is intentionally simple:
+
+- Robin is CEO and CFO. He leads company direction, finance, sales, marketing, and HR.
+- Walter is CTO. He leads technology, engineering, tooling, infrastructure, and urgent IT issues.
+- There are currently no other managers in the company.
+- Individual contributors own execution, documentation, and early escalation of blockers.
+- Payroll questions and people-policy escalation go to Robin.
+- Access, devices, tooling, and urgent IT issues go to Walter.
+
+If you are unsure who owns a decision, raise it directly with Robin or Walter instead of letting the issue stall.
+
 ## Performance expectations
 
 Good performance at Helixiora means:
 
-- strong collaboration with your manager and peers
+- strong collaboration with leadership and peers
 - clear and understandable written English
 - practical, high-quality work that improves customer outcomes
 - professional honesty, including respectful disagreement when it benefits the customer
 
 ## Who owns or approves it
 
-Your manager and the founders own this page.
+Robin and Walter own this page.
 
 ## Location and ways of working
 
@@ -73,4 +86,4 @@ For day-to-day application of these principles, continue to:
 
 ## What happens if something goes wrong
 
-If behaviors in practice do not match these principles, raise concerns through your manager and the escalation path in [People Policies](/docs/people-policies/).
+If behaviors in practice do not match these principles, raise concerns through the escalation path in [People Policies](/docs/people-policies/).

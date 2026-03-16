@@ -5,5 +5,5 @@
   </div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
   <p>{{ .Params.lead | default .Summary }}</p>
-  <span class="doc-card-link">Read page</span>
+  <a class="doc-card-link" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">Read page</a>
 </article>

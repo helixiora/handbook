@@ -41,13 +41,13 @@ Current support is intentionally simple:
 - An `NS Business Card` in the Netherlands can be provided when it is actually needed for work.
 - A laptop is provided when your role needs one.
 - There is no fixed home-office budget.
-- There is no standing training budget, but learning support can be approved case by case. Ask your manager.
+- There is no standing training budget, but learning support can be approved case by case. Ask Robin.
 
 If a benefit is not described here or in your contract, do not assume it exists by default.
 
 ## Who owns or approves it
 
-Robin owns payroll and final pay handling. Managers and founders decide case-by-case support such as learning spend, equipment, and travel-related extras.
+Robin owns payroll, final pay handling, and case-by-case support decisions. Walter is involved when the request is primarily about technical equipment or tooling.
 
 ## Where to go in the tool stack
 

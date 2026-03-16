@@ -62,7 +62,7 @@ The standard is simple: Helixiora should compound learning, not keep it trapped 
 
 ## Who owns or approves it
 
-Founders and managers own the expectation that AI experimentation is part of the job. Walter is the main contact for access, tooling, and reasonable token spend.
+Robin and Walter own the expectation that AI experimentation is part of the job. Walter is the main contact for access, tooling, and reasonable token spend.
 
 ## Where to go in the tool stack
 
@@ -72,4 +72,4 @@ Founders and managers own the expectation that AI experimentation is part of the
 
 ## What happens if something goes wrong
 
-If you think you used the wrong tool, spent too much, or handled data poorly, raise it quickly with Walter or your manager. Fixing issues early matters more than pretending they did not happen.
+If you think you used the wrong tool, spent too much, or handled data poorly, raise it quickly with Walter or Robin. Fixing issues early matters more than pretending they did not happen.

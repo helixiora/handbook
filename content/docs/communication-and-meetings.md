@@ -24,7 +24,7 @@ This page sets communication norms so remote collaboration stays clear, respectf
 
 ## Who owns or approves it
 
-Team leads and managers model communication norms. Founders and managers own policy wording and escalation guidance.
+Robin and Walter model these norms and own policy wording and escalation guidance.
 
 ## Where to go in the tool stack
 
@@ -34,7 +34,7 @@ Team leads and managers model communication norms. Founders and managers own pol
 
 ## What happens if something goes wrong
 
-If communication breaks down, reset quickly: summarize facts in writing, clarify decision owner, and agree on next checkpoint. Escalate persistent behavior issues through your manager.
+If communication breaks down, reset quickly: summarize facts in writing, clarify decision owner, and agree on next checkpoint. Escalate persistent behavior issues through the route in [People Policies](/docs/people-policies/).
 
 ## Related pages
 

@@ -11,6 +11,7 @@ Use this section as the operational source of truth for employees. Keep pages pr
 - [Welcome](/docs/welcome/)
 - [About Helixiora](/docs/about-helixiora/)
 - [Your First Day](/docs/first-day/)
+- [Engineering Starter Kit](/docs/engineering-starter-kit/) if your role includes code or infrastructure work
 
 ## Working at Helixiora
 

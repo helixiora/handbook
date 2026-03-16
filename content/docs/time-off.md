@@ -9,11 +9,11 @@ description = "Time off, holiday handling, leave request flow, and sick leave pr
 
 ## Holiday allowance
 
-Helixiora uses an unlimited paid holiday leave approach, based on responsible planning and manager alignment.
+Helixiora uses an unlimited paid holiday leave approach, based on responsible planning and Robin alignment.
 
 | Leave type | Policy |
 | --- | --- |
-| Annual leave | Unlimited paid leave, planned with your manager |
+| Annual leave | Unlimited paid leave, planned with Robin |
 | Public holidays | Follow location-specific handling in local appendices |
 | Planning expectation | Balance team coverage and customer commitments |
 | Approval model | Submit and agree leave in advance where possible |
@@ -22,9 +22,9 @@ For country-specific holiday handling, check [Local appendices](/docs/local/).
 
 ## How to request time off
 
-There is currently no separate HR portal for leave. Time off should be agreed directly with your manager and made visible to the team.
+There is currently no separate HR portal for leave. Time off should be agreed directly with Robin and made visible to the team.
 
-1. Ask your manager in writing.
+1. Ask Robin in writing.
 2. Agree the dates and any coverage or handoff needs.
 3. Put the absence in your calendar.
 4. Update your Slack status when the time off starts.
@@ -36,11 +36,11 @@ For leave blocks longer than three working days, submit the request at least two
 
 If you are sick, do not log this as vacation.
 
-- Notify your manager before 09:00 in your local time zone.
+- Notify Robin before 09:00 in your local time zone. If he is unavailable, notify Walter.
 - Mark yourself unavailable in Slack.
-- Keep your manager updated in writing, since there is no separate HR system today.
+- Keep Robin updated in writing, since there is no separate HR system today.
 
-If your absence lasts multiple days, stay in touch with your manager on the expected return date and any handoff implications.
+If your absence lasts multiple days, stay in touch with Robin on the expected return date and any handoff implications.
 
 ## Practical rules
 
