@@ -44,7 +44,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --gc --minify --cleanDestinationDir --baseURL "https://handbook.helixiora.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

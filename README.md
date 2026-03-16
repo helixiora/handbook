@@ -24,7 +24,8 @@ To publish:
 
 1. Push this repository to GitHub.
 2. In the repository settings, enable GitHub Pages and select **GitHub Actions** as the source.
-3. The workflow will build the site with the correct Pages base URL automatically.
+3. Point the DNS for `handbook.helixiora.com` at GitHub Pages.
+4. The workflow publishes with the custom domain `https://handbook.helixiora.com/`.
 
 ## Content structure
 

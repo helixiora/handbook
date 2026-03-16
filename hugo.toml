@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://handbook.helixiora.com/"
 languageCode = "en-us"
 title = "Helixiora Employee Handbook"
 enableRobotsTXT = true
