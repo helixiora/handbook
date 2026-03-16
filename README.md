@@ -33,3 +33,20 @@ To publish:
 - `/content/docs/` contains the employee handbook pages.
 - `/assets/css/main.css` controls the custom visual system.
 - `/layouts/` contains the Hugo templates and reusable partials.
+
+## License
+
+The Helixiora Employee Handbook content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+license. You are free to share and adapt the material, provided you give appropriate
+credit and indicate if changes were made.
+
+## Contributing
+
+Contributions and improvements are welcome.
+
+- **Propose changes**: Open a pull request with clear, concise commits and a short
+  description of what you are changing and why.
+- **Report issues**: If you spot mistakes, omissions, or unclear guidance, open an
+  issue describing the problem and, if possible, suggest how it could be improved.
+- **Style and tone**: Keep additions practical, employee-focused, and easy to scan.

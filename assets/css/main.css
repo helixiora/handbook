@@ -43,6 +43,19 @@ body {
 
 a {
   color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.brand,
+.site-nav a,
+.nav-cta,
+.button,
+.doc-card h3 a,
+.doc-card-link,
+.sidebar-links a,
+.toc-shell a,
+.footer-links a {
   text-decoration: none;
 }
 

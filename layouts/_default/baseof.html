@@ -29,7 +29,9 @@
         <p class="footer-title">{{ site.Title }}</p>
         <p class="footer-copy">A practical handbook for onboarding, ways of working, time off, expenses, and the tools people rely on most often.</p>
         <p class="footer-copy small">
-          This handbook is open source. View or propose changes on
+          This handbook is open source and licensed under
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.
+          View or propose changes on
           <a href="https://github.com/helixiora/handbook" target="_blank" rel="noopener noreferrer">GitHub</a>,
           and learn more about Helixiora at
           <a href="https://helixiora.com" target="_blank" rel="noopener noreferrer">helixiora.com</a>.
@@ -37,6 +39,7 @@
       </div>
       <div class="footer-links">
         {{ with site.GetPage "/docs" }}<a href="{{ .RelPermalink }}">Browse the handbook</a>{{ end }}
+        {{ with site.GetPage "/docs/local" }}<a href="{{ .RelPermalink }}">Local appendices</a>{{ end }}
         {{ with site.GetPage "/docs/faq" }}<a href="{{ .RelPermalink }}">FAQ</a>{{ end }}
       </div>
     </div>
