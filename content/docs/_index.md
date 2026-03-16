@@ -1,7 +1,34 @@
 +++
 title = "Employee Handbook"
-description = "Sample Helixiora employee handbook pages for onboarding, leave, expenses, and commuting."
-lead = "These sample pages show how Helixiora can organize the practical information employees look for most often."
+description = "Operational handbook pages for how Helixiora works, communicates, and supports employees."
+lead = "Use this hub to find practical guidance fast: where to start, how work gets done, and where to go when something needs action."
 +++
 
-Use this section as the operational source of truth for employees. Replace the sample numbers, tools, and approval flows here with Helixiora's actual policies before publishing.
+Use this section as the operational source of truth for employees. Keep pages practical, explicit, and easy to scan.
+
+## Start here
+
+- [Welcome](/docs/welcome/)
+- [About Helixiora](/docs/about-helixiora/)
+- [Your First Day](/docs/first-day/)
+
+## Working at Helixiora
+
+- [How We Work](/docs/how-we-work/)
+- [Communication & Meetings](/docs/communication-and-meetings/)
+- [Growth & Feedback](/docs/growth-and-feedback/)
+- [People Policies](/docs/people-policies/)
+
+## Money, leave, and travel
+
+- [Time Off & Holidays](/docs/time-off/)
+- [Compensation & Benefits](/docs/compensation-and-benefits/)
+- [Expenses](/docs/expenses/)
+- [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/)
+
+## Security and support
+
+- [Tools & Support](/docs/tools-and-support/)
+- [Security & Data Handling](/docs/security-and-data-handling/)
+- [FAQ](/docs/faq/)
+- [Local appendices](/docs/local/)

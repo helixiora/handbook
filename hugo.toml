@@ -6,8 +6,8 @@ disableKinds = ["taxonomy", "term"]
 summaryLength = 24
 
 [params]
-  description = "A Helixiora employee handbook covering onboarding, leave, expenses, and commuting in a clean Hugo site."
-  tagline = "First day, time off, expenses, and travel."
+  description = "A Helixiora employee handbook covering onboarding, remote work norms, leave, expenses, travel, and support."
+  tagline = "Start fast, work clearly, and find operational answers quickly."
   author = "Helixiora"
 
 [markup]
@@ -37,5 +37,5 @@ summaryLength = 24
 
 [[menus.main]]
   name = "Travel"
-  pageRef = "/docs/public-transport"
+  pageRef = "/docs/travel-and-helixiora-connect"
   weight = 50

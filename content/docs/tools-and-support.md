@@ -16,7 +16,10 @@ Use the handbook to point employees to one clear system per task.
 | Personal details and leave | `HR Portal` | People Operations |
 | Receipts and reimbursements | `Expense Portal` | Finance |
 | Payslips and tax documents | `Payroll Portal` | Finance |
+| Passwords and secrets | `Password Manager` | IT / Security |
+| Tickets and issue tracking | `Project Tool` | Team Leads |
 | Laptop and account help | `IT Helpdesk` | Internal IT |
+| Security incidents | `Incident Channel` | Security / IT |
 | Day-to-day coordination | `Slack` | Everyone |
 
 ## Support channels
@@ -26,6 +29,7 @@ Use clear rules for where support should start:
 - HR questions: submit through the HR portal or People Operations channel.
 - Expense questions: comment on the claim first, then contact finance if blocked.
 - IT issues: open a helpdesk ticket instead of posting only in a team chat.
+- Security concerns: use the incident route immediately if data or account risk is involved.
 - Urgent access issues on day one: contact your manager and IT immediately.
 
 ## Useful response expectations

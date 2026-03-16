@@ -53,6 +53,15 @@ The first week is for orientation, not perfection. These are the outcomes that m
 3. You have met your manager, team, and buddy.
 4. You understand the priorities for your first 30 days.
 
+## Your first 30 days
+
+By the end of your first month, you should be able to:
+
+1. Deliver your first meaningful piece of work with manager support.
+2. Explain your team's priorities and how your role contributes.
+3. Use core workflows independently for leave, expenses, and support.
+4. Work confidently in Helixiora's remote-first and async-first model.
+
 ## Where to go next
 
-After onboarding, most people next need the [time off policy](/docs/time-off/), [expenses page](/docs/expenses/), and [public transport guide](/docs/public-transport/).
+After onboarding, most people next need the [time off policy](/docs/time-off/), [expenses page](/docs/expenses/), and [travel guide](/docs/travel-and-helixiora-connect/).
