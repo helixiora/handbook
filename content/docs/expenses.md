@@ -9,7 +9,7 @@ description = "Sample expenses policy for the Helixiora employee handbook."
 
 ## Where to file expenses
 
-All reimbursements should be submitted through the `Expense Portal`. Do not send receipts directly to finance unless someone has explicitly asked you to do so.
+All reimbursements should be submitted through the `Expense Portal`. Do not send receipts directly to finance unless someone has explicitly asked you to do so. For system ownership and routing, see [Tools & Support](/docs/tools-and-support/).
 
 Each claim should include:
 
@@ -61,3 +61,9 @@ Most delays happen for predictable reasons:
 - No manager approval
 
 Fast reimbursement depends on clean submissions, not finance chasing missing details.
+
+## Related pages
+
+- [Compensation & Benefits](/docs/compensation-and-benefits/)
+- [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/)
+- [Tools & Support](/docs/tools-and-support/)

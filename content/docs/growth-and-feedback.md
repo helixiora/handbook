@@ -9,7 +9,7 @@ description = "Check-ins, goals, feedback culture, development support, and role
 
 ## What this page is for
 
-This page explains how performance, development, and role growth work in practice.
+This page explains how performance, development, and role growth work in practice, and complements [People Policies](/docs/people-policies/).
 
 ## What you should do
 
@@ -32,3 +32,9 @@ Managers own day-to-day coaching. Leadership and People Operations own calibrati
 ## What happens if something goes wrong
 
 If expectations feel unclear or inconsistent, ask for written criteria and examples. Escalate unresolved concerns to People Operations.
+
+## Related pages
+
+- [How We Work](/docs/how-we-work/)
+- [Communication & Meetings](/docs/communication-and-meetings/)
+- [People Policies](/docs/people-policies/)

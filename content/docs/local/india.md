@@ -42,3 +42,9 @@ We hire in India through [Deel](https://www.deel.com/country-explorer/india). Yo
 ## What happens if something goes wrong
 
 If holiday planning, hiring status, or Deel setup details are unclear, raise it with your manager before taking action.
+
+## Related pages
+
+- [Time Off & Holidays](/docs/time-off/)
+- [Compensation & Benefits](/docs/compensation-and-benefits/)
+- [Local Appendices index](/docs/local/)

@@ -20,9 +20,11 @@ For this sample handbook, a full-time employee receives **25 paid holiday days p
 
 Replace these numbers with Helixiora's actual employment policy before publishing.
 
+For country-specific holiday handling, check [Local appendices](/docs/local/).
+
 ## How to request time off
 
-Time off should be registered in the HR portal, not handled only in chat or email.
+Time off should be registered in the HR portal, not handled only in chat or email. For system routing, see [Tools & Support](/docs/tools-and-support/).
 
 1. Open the `HR Portal`.
 2. Go to `Time Off`.
@@ -49,3 +51,9 @@ If your absence lasts multiple days, stay in touch with your manager on the expe
 - Use vacation time throughout the year instead of carrying a large balance into Q4.
 
 The key principle is simple: visibility matters as much as approval. Colleagues should be able to plan around your absence without surprises.
+
+## Related pages
+
+- [Compensation & Benefits](/docs/compensation-and-benefits/)
+- [People Policies](/docs/people-policies/)
+- [Local appendices](/docs/local/)

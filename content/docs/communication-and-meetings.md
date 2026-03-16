@@ -9,7 +9,7 @@ description = "Slack etiquette, meeting hygiene, response expectations, and time
 
 ## What this page is for
 
-This page sets communication norms so remote collaboration stays clear, respectful, and efficient.
+This page sets communication norms so remote collaboration stays clear, respectful, and efficient, aligned with [How We Work](/docs/how-we-work/).
 
 ## What you should do
 
@@ -33,3 +33,9 @@ Team leads and managers model communication norms. People Operations owns policy
 ## What happens if something goes wrong
 
 If communication breaks down, reset quickly: summarize facts in writing, clarify decision owner, and agree on next checkpoint. Escalate persistent behavior issues through your manager or People Operations.
+
+## Related pages
+
+- [How We Work](/docs/how-we-work/)
+- [People Policies](/docs/people-policies/)
+- [Tools & Support](/docs/tools-and-support/)

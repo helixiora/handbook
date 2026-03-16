@@ -9,7 +9,7 @@ description = "Code of conduct, equality, anti-harassment, conflict of interest,
 
 ## What this page is for
 
-This page provides a readable overview of behavior and conduct expectations for everyone at Helixiora.
+This page provides a readable overview of behavior and conduct expectations for everyone at Helixiora, and should be read alongside [Communication & Meetings](/docs/communication-and-meetings/).
 
 ## What you should do
 
@@ -33,3 +33,9 @@ People Operations owns this content and escalation process. Leadership approves 
 ## What happens if something goes wrong
 
 If you experience or witness policy violations, document what happened and report through the appropriate channel. Reports are handled with confidentiality to the extent possible and non-retaliation expectations apply.
+
+## Related pages
+
+- [Communication & Meetings](/docs/communication-and-meetings/)
+- [Growth & Feedback](/docs/growth-and-feedback/)
+- [Tools & Support](/docs/tools-and-support/)

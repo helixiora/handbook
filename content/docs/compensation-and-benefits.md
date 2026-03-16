@@ -17,7 +17,7 @@ Check and complete:
 
 - Payroll timing and cutoff rules
 - Payslip and tax document access
-- Pension or retirement setup (where applicable)
+- Pension or retirement setup (where applicable; see [Local appendices](/docs/local/))
 - Equipment and home-office support process
 - Mobility, coworking, wellness, and learning support
 - Contact route for payroll questions
@@ -34,6 +34,14 @@ Finance owns payroll operations. People Operations owns people-policy alignment 
 - `HR Portal` for personal details and benefit enrollment
 - `Expense Portal` for reimbursable allowances
 
+Related system ownership and routing are listed in [Tools & Support](/docs/tools-and-support/).
+
 ## What happens if something goes wrong
 
 If payroll details are missing or incorrect, raise a ticket with Finance immediately and include the pay period, issue summary, and supporting screenshots.
+
+## Related pages
+
+- [Time Off & Holidays](/docs/time-off/)
+- [Expenses](/docs/expenses/)
+- [Local appendices](/docs/local/)

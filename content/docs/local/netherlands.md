@@ -95,3 +95,9 @@ Dutch labor law takes precedence over this page.
 If this page and Dutch labor law differ, we follow the law where it provides better protection or terms for you.
 
 If you notice a conflict with the law, please tell your manager or open a PR in the handbook repository: [github.com/helixiora/handbook](https://github.com/helixiora/handbook/pulls).
+
+## Related pages
+
+- [Time Off & Holidays](/docs/time-off/)
+- [Compensation & Benefits](/docs/compensation-and-benefits/)
+- [Local Appendices index](/docs/local/)
