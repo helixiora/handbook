@@ -22,11 +22,9 @@ Check and complete:
 - Mobility, coworking, wellness, and learning support
 - Contact route for payroll questions
 
-Replace this stub with Helixiora's exact local and contractual details before publishing.
-
 ## Who owns or approves it
 
-Finance owns payroll operations. People Operations owns people-policy alignment and local addendums.
+Finance owns payroll operations. Founders and managers own people-policy alignment and local addendums.
 
 ## Where to go in the tool stack
 

@@ -21,7 +21,7 @@ This page explains how performance, development, and role growth work in practic
 
 ## Who owns or approves it
 
-Managers own day-to-day coaching. Leadership and People Operations own calibration, progression criteria, and process fairness.
+Managers own day-to-day coaching. Leadership and founders own calibration, progression criteria, and process fairness.
 
 ## Where to go in the tool stack
 
@@ -31,7 +31,7 @@ Managers own day-to-day coaching. Leadership and People Operations own calibrati
 
 ## What happens if something goes wrong
 
-If expectations feel unclear or inconsistent, ask for written criteria and examples. Escalate unresolved concerns to People Operations.
+If expectations feel unclear or inconsistent, ask for written criteria and examples. Escalate unresolved concerns to your manager and founders.
 
 ## Related pages
 

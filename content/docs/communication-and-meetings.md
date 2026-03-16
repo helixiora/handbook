@@ -16,23 +16,25 @@ This page sets communication norms so remote collaboration stays clear, respectf
 - Use public channels by default so context is shared.
 - Set response expectations by urgency, not by anxiety.
 - Prefer docs for decisions and chat for coordination.
+- Prefer Slack for day-to-day communication instead of WhatsApp or other external messaging tools.
+- If client work requires external messaging tools, summarize key decisions back into Slack.
 - Keep meetings intentional: agenda, owner, decision, next steps.
 - Write handoffs that work across time zones.
 - Disagree with ideas directly and respectfully; focus on evidence and outcomes.
 
 ## Who owns or approves it
 
-Team leads and managers model communication norms. People Operations owns policy wording and escalation guidance.
+Team leads and managers model communication norms. Founders and managers own policy wording and escalation guidance.
 
 ## Where to go in the tool stack
 
 - `Slack` for coordination and team updates
-- Calendar for meeting scheduling and availability windows
-- Internal docs for decisions and post-meeting notes
+- `Google Workspace` calendar for scheduling and availability windows
+- `ClickUp` docs/tasks for decisions, notes, and follow-ups
 
 ## What happens if something goes wrong
 
-If communication breaks down, reset quickly: summarize facts in writing, clarify decision owner, and agree on next checkpoint. Escalate persistent behavior issues through your manager or People Operations.
+If communication breaks down, reset quickly: summarize facts in writing, clarify decision owner, and agree on next checkpoint. Escalate persistent behavior issues through your manager.
 
 ## Related pages
 

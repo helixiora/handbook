@@ -41,7 +41,7 @@ See [Your First Day](/docs/first-day/) and [Tools & Support](/docs/tools-and-sup
 
 ## Who owns or approves it
 
-People Operations owns this page and routes updates to Finance, IT, and leadership as needed.
+Managers and founders own this page and route updates to Finance, IT, and leadership as needed.
 
 ## Where to go in the tool stack
 

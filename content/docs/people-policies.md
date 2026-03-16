@@ -2,7 +2,7 @@
 title = "People Policies"
 date = 2026-03-16T08:33:00+01:00
 weight = 60
-kicker = "People Ops"
+kicker = "Policies"
 lead = "This page summarizes core people policies in plain language and points to the right escalation route when issues arise."
 description = "Code of conduct, equality, anti-harassment, conflict of interest, and grievance paths."
 +++
@@ -23,7 +23,7 @@ Know and follow policies on:
 
 ## Who owns or approves it
 
-People Operations owns this content and escalation process. Leadership approves policy direction and accountability standards.
+Founders and managers own this content and escalation process. Leadership approves policy direction and accountability standards.
 
 ## Where to go in the tool stack
 

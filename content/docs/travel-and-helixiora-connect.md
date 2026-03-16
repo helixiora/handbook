@@ -22,7 +22,7 @@ This page explains how Helixiora handles commuting support, client travel, and c
 
 ## Who owns or approves it
 
-Managers approve travel need and budget. Finance approves reimbursement policy. People Operations owns company-gathering guidance.
+Managers approve travel need and budget. Finance approves reimbursement policy. Founders and managers own company-gathering guidance.
 
 ## Where to go in the tool stack
 

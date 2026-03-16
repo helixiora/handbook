@@ -80,6 +80,8 @@ We do not currently offer a pension or retirement plan in the Netherlands.
 
 If you need a public transport card for work, ask your manager.
 
+Helixiora rents a small office inside The Hague Tech in The Hague, at Waldorpstraat 5, 2521 CA Den Haag. This space is used for co-working, client meetings, and Helixiora Connect sessions.
+
 ## Who owns or approves it
 
 Until we have a formal People Operations function, your manager and the founders own this appendix, with support from local payroll/legal partners.

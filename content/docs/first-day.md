@@ -4,12 +4,12 @@ date = 2026-03-16T08:00:00+01:00
 weight = 10
 kicker = "Onboarding"
 lead = "Your first day should feel structured and calm. This page covers what to bring, what gets set up, and what the first week is meant to achieve."
-description = "Sample first-day onboarding page for the Helixiora employee handbook."
+description = "First-day onboarding guide for setup, access, and first-week outcomes."
 +++
 
 ## Before you arrive
 
-Before day one, make sure these basics are already in motion:
+Before day one, make sure these basics are already in motion. If you are coming to the office at The Hague Tech, your manager will confirm the exact meeting point and arrival time.
 
 - Your signed contract is on file.
 - Your home address and emergency contact are in the HR portal.
@@ -35,12 +35,12 @@ The goal of day one is not to make you productive in four hours. It is to make s
 
 By the end of your first day, you should have access to:
 
-- Email and calendar
+- Google Workspace (email and calendar)
 - Slack
+- ClickUp
+- GitHub (if your role needs it)
 - Password manager
-- HR portal
-- Expense portal
-- Project and ticketing tools
+- HR and expense systems
 
 If anything is missing, raise it immediately through the IT support channel rather than waiting for the end of the week.
 

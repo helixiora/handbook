@@ -21,7 +21,7 @@ This page explains the standard exit process when someone leaves Helixiora.
 
 ## Who owns or approves it
 
-People Operations owns process steps. Managers own delivery handover. IT owns access revocation and device intake.
+Managers and founders own process steps. Managers own delivery handover. IT owns access revocation and device intake.
 
 ## Where to go in the tool stack
 
@@ -31,4 +31,4 @@ People Operations owns process steps. Managers own delivery handover. IT owns ac
 
 ## What happens if something goes wrong
 
-If access, payroll, or handover steps are incomplete, raise it immediately with People Operations and your manager to avoid security, compliance, or payment delays.
+If access, payroll, or handover steps are incomplete, raise it immediately with your manager and founders to avoid security, compliance, or payment delays.

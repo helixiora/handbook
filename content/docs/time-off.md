@@ -4,21 +4,19 @@ date = 2026-03-16T08:05:00+01:00
 weight = 20
 kicker = "Leave"
 lead = "Employees should be able to answer two questions quickly: how much leave they get, and exactly how they request it."
-description = "Sample time off and holidays policy for the Helixiora employee handbook."
+description = "Time off, holiday handling, leave request flow, and sick leave process."
 +++
 
 ## Holiday allowance
 
-For this sample handbook, a full-time employee receives **25 paid holiday days per calendar year**. Part-time employees receive the same allowance on a pro-rated basis.
+Helixiora uses an unlimited paid holiday leave approach, based on responsible planning and manager alignment.
 
-| Leave type | Sample policy |
+| Leave type | Policy |
 | --- | --- |
-| Annual leave | 25 days for full-time employees |
-| Public holidays | Observed separately and not deducted from leave balance |
-| Part-time contracts | Calculated pro rata |
-| Carry-over | Remaining balance should be used by 31 March of the next year |
-
-Replace these numbers with Helixiora's actual employment policy before publishing.
+| Annual leave | Unlimited paid leave, planned with your manager |
+| Public holidays | Follow location-specific handling in local appendices |
+| Planning expectation | Balance team coverage and customer commitments |
+| Approval model | Submit and agree leave in advance where possible |
 
 For country-specific holiday handling, check [Local appendices](/docs/local/).
 

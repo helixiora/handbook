@@ -22,13 +22,13 @@ This page defines the default working model at Helixiora: remote-first, low-bure
 
 ## Who owns or approves it
 
-Managers reinforce these norms in teams. People Operations and leadership approve company-wide working expectations.
+Managers reinforce these norms in teams. Founders and leadership approve company-wide working expectations.
 
 ## Where to go in the tool stack
 
 - `Slack` for daily coordination and status visibility
-- Project tracking tool for priorities and handoffs
-- Internal docs for decision records and process notes
+- `ClickUp` for priorities and handoffs
+- `ClickUp Docs` for decision records and process notes
 
 ## What happens if something goes wrong
 

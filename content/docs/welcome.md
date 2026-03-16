@@ -21,7 +21,7 @@ The handbook is for practical operating guidance: onboarding, ways of working, l
 
 ## Who owns or approves it
 
-People Operations owns handbook content, with input from Finance, IT, and leadership for domain-specific sections.
+Founders and managers own handbook content, with input from Finance, IT, and leadership for domain-specific sections.
 
 ## Where to go in the tool stack
 
@@ -34,4 +34,4 @@ People Operations owns handbook content, with input from Finance, IT, and leader
 
 If handbook guidance conflicts with your contract or applicable law, your contract and local law take precedence.
 
-If a process in this handbook fails in practice, raise it in the relevant owner channel and tag People Operations so the page can be corrected.
+If a process in this handbook fails in practice, raise it in the relevant owner channel and notify your manager so the page can be corrected.

@@ -4,7 +4,7 @@ date = 2026-03-16T08:10:00+01:00
 weight = 30
 kicker = "Finance"
 lead = "If you spend company money, the process should be obvious: know what is reimbursable, keep the receipt, and file it in the right place on time."
-description = "Sample expenses policy for the Helixiora employee handbook."
+description = "Expenses policy for reimbursable spending, submission steps, and approval requirements."
 +++
 
 ## Where to file expenses
@@ -21,7 +21,7 @@ Each claim should include:
 
 ## What can be claimed
 
-| Category | Sample rule |
+| Category | Rule |
 | --- | --- |
 | Business travel | Reimbursable with receipt |
 | Client meals | Reimbursable when work-related and reasonable |

@@ -22,7 +22,7 @@ This page is the practical security baseline for all Helixiora employees and con
 
 ## Who owns or approves it
 
-Security and leadership own standards. IT and People Operations own employee-facing process updates and training links.
+Security and leadership own standards. IT, managers, and founders own employee-facing process updates and training links.
 
 ## Where to go in the tool stack
 
