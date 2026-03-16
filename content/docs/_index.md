@@ -15,6 +15,7 @@ Use this section as the operational source of truth for employees. Keep pages pr
 ## Working at Helixiora
 
 - [How We Work](/docs/how-we-work/)
+- [AI & Experimentation](/docs/ai-and-experimentation/)
 - [Communication & Meetings](/docs/communication-and-meetings/)
 - [Growth & Feedback](/docs/growth-and-feedback/)
 - [People Policies](/docs/people-policies/)
@@ -25,6 +26,7 @@ Use this section as the operational source of truth for employees. Keep pages pr
 - [Compensation & Benefits](/docs/compensation-and-benefits/)
 - [Expenses](/docs/expenses/)
 - [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/)
+- [Helixiora Connect](/docs/helixiora-connect/)
 
 ## Security and support
 

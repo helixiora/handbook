@@ -65,6 +65,7 @@ Since early 2025, we rent a small office inside The Hague Tech in The Hague, at 
 For day-to-day application of these principles, continue to:
 
 - [How We Work](/docs/how-we-work/)
+- [AI & Experimentation](/docs/ai-and-experimentation/)
 - [Communication & Meetings](/docs/communication-and-meetings/)
 - [Growth & Feedback](/docs/growth-and-feedback/)
 - [People Policies](/docs/people-policies/)

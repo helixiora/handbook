@@ -18,6 +18,7 @@ This page defines the default working model at Helixiora: remote-first, low-bure
 - **Async before sync:** Default to docs/messages, use meetings when speed or complexity requires it.
 - **Focus time:** Protect blocks for deep work and signal when you are heads-down.
 - **Ownership:** Drive work to completion and surface blockers early.
+- **Keep experimenting:** Actively look for better AI tools and workflows instead of settling for the current default.
 - **Definition of done:** Work is done when the outcome is delivered, documented, and handoff-ready.
 
 ## Who owns or approves it
@@ -33,3 +34,5 @@ Managers reinforce these norms in teams. Founders and leadership approve company
 ## What happens if something goes wrong
 
 If expectations are unclear, ask your manager to clarify scope, urgency, and ownership. If blockers persist, escalate early rather than letting work stall silently.
+
+For Helixiora's specific expectations around AI experimentation, read [AI & Experimentation](/docs/ai-and-experimentation/).

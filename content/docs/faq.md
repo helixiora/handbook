@@ -33,7 +33,11 @@ Ask for manager approval first, then follow [Expenses](/docs/expenses/).
 
 ### What happens at Helixiora Connect?
 
-See [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/).
+See [Helixiora Connect](/docs/helixiora-connect/).
+
+### Can I expense AI tools or token usage?
+
+Usually yes, if the usage is reasonable and helps you do better work. If you need budget, access, or you are unsure about cost, discuss it with Walter first as described in [AI & Experimentation](/docs/ai-and-experimentation/).
 
 ### Which tools are mandatory on day one?
 

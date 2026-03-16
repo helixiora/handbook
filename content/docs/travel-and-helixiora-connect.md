@@ -47,6 +47,8 @@ Discuss flights, hotels, and other travel expenses over EUR 200 with your manage
 
 Helixiora Connect is fully covered by the company. Travel, hotels, and related event costs should still follow the normal expense process, and larger items should still be discussed in advance.
 
+For the purpose, format, and planning expectations of the quarterly off-site itself, read [Helixiora Connect](/docs/helixiora-connect/).
+
 ## Who owns or approves it
 
 Managers approve travel need and budget. Finance approves reimbursement policy. Founders and managers own company-gathering guidance.
