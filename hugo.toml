@@ -1,13 +1,13 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Helixiora Handbook"
+title = "Helixiora Employee Handbook"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 summaryLength = 24
 
 [params]
-  description = "A public Helixiora handbook built for clear, brand-aligned, markdown-first publishing on GitHub Pages."
-  tagline = "Signals, systems, and public documentation."
+  description = "A Helixiora employee handbook covering onboarding, leave, expenses, and commuting in a clean Hugo site."
+  tagline = "First day, time off, expenses, and travel."
   author = "Helixiora"
 
 [markup]
@@ -21,16 +21,21 @@ summaryLength = 24
   weight = 10
 
 [[menus.main]]
-  name = "Getting Started"
-  pageRef = "/docs/getting-started"
+  name = "First Day"
+  pageRef = "/docs/first-day"
   weight = 20
 
 [[menus.main]]
-  name = "Publishing"
-  pageRef = "/docs/publishing-workflow"
+  name = "Time Off"
+  pageRef = "/docs/time-off"
   weight = 30
 
 [[menus.main]]
-  name = "Standards"
-  pageRef = "/docs/editorial-standards"
+  name = "Expenses"
+  pageRef = "/docs/expenses"
   weight = 40
+
+[[menus.main]]
+  name = "Travel"
+  pageRef = "/docs/public-transport"
+  weight = 50

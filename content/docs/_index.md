@@ -1,7 +1,7 @@
 +++
-title = "Handbook"
-description = "Sample Helixiora handbook pages for a public Hugo site."
-lead = "These sample pages show how Helixiora can publish capabilities, editorial standards, and working methods in a clean public handbook."
+title = "Employee Handbook"
+description = "Sample Helixiora employee handbook pages for onboarding, leave, expenses, and commuting."
+lead = "These sample pages show how Helixiora can organize the practical information employees look for most often."
 +++
 
-Use this section as the durable public layer: explain what Helixiora believes, how it works, and what readers can expect from the company in a format that stays easy to maintain.
+Use this section as the operational source of truth for employees. Replace the sample numbers, tools, and approval flows here with Helixiora's actual policies before publishing.

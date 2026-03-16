@@ -1,6 +1,6 @@
-# Helixiora Handbook
+# Helixiora Employee Handbook
 
-A public-facing Hugo handbook with Helixiora-inspired branding, sample documentation pages, and a GitHub Pages deployment workflow.
+A Hugo employee handbook with Helixiora-inspired styling, sample HR and operations pages, and a GitHub Pages deployment workflow.
 
 ## Run locally
 
@@ -29,6 +29,6 @@ To publish:
 ## Content structure
 
 - `/content/_index.md` powers the landing page.
-- `/content/docs/` contains the public handbook pages.
+- `/content/docs/` contains the employee handbook pages.
 - `/assets/css/main.css` controls the custom visual system.
 - `/layouts/` contains the Hugo templates and reusable partials.

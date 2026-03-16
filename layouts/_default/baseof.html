@@ -15,8 +15,8 @@
           <a href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
       </nav>
-      {{ with site.GetPage "/docs/getting-started" }}
-        <a class="nav-cta" href="{{ .RelPermalink }}">Start reading</a>
+      {{ with site.GetPage "/docs/first-day" }}
+        <a class="nav-cta" href="{{ .RelPermalink }}">First day guide</a>
       {{ end }}
     </div>
   </header>
@@ -26,12 +26,12 @@
   <footer class="site-footer">
     <div class="container footer-shell">
       <div>
-        <p class="footer-title">Helixiora Handbook</p>
-        <p class="footer-copy">A public markdown handbook designed for GitHub Pages and shaped by the 2024 Helixiora brand guide.</p>
+        <p class="footer-title">{{ site.Title }}</p>
+        <p class="footer-copy">A practical handbook for onboarding, leave, expenses, commuting, and the systems employees rely on most often.</p>
       </div>
       <div class="footer-links">
         {{ with site.GetPage "/docs" }}<a href="{{ .RelPermalink }}">Browse the handbook</a>{{ end }}
-        <a href="https://github.com">Publish with GitHub Pages</a>
+        {{ with site.GetPage "/docs/expenses" }}<a href="{{ .RelPermalink }}">Expenses policy</a>{{ end }}
       </div>
     </div>
   </footer>

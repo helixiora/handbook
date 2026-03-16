@@ -1,7 +1,7 @@
 +++
-title = "Publishing ideas with clarity"
-description = "A sleek, public-facing Helixiora handbook built with Hugo and designed for GitHub Pages."
-lead = "A modern markdown handbook for publishing Helixiora thinking, methods, and operating principles in a public, polished format."
+title = "Everything a new hire needs in one place"
+description = "A sleek Helixiora employee handbook built with Hugo for onboarding, leave, expenses, and commuting guidance."
+lead = "A modern employee handbook that answers the practical questions people have in their first week and throughout day-to-day work."
 +++
 
-This sample site is intentionally structured for public visibility: strong landing page, readable long-form content, and a visual system pulled from the Helixiora 2024 brand guide rather than a stock docs template.
+This sample site is structured like an employee handbook rather than a marketing site: clear starting points, readable policy pages, and quick answers to everyday questions around onboarding, leave, expenses, and travel.

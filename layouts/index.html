@@ -3,37 +3,37 @@
   <section class="hero">
     <div class="container hero-grid">
       <div class="hero-copy">
-        <p class="eyebrow">Helixiora public handbook</p>
+        <p class="eyebrow">Helixiora employee handbook</p>
         <h1>{{ .Title }}</h1>
         <p class="hero-lead">{{ .Params.lead }}</p>
         <div class="hero-actions">
           {{ with site.GetPage "/docs" }}
             <a class="button button-primary" href="{{ .RelPermalink }}">Explore the handbook</a>
           {{ end }}
-          {{ with site.GetPage "/docs/publishing-workflow" }}
-            <a class="button button-secondary" href="{{ .RelPermalink }}">See the publishing flow</a>
+          {{ with site.GetPage "/docs/time-off" }}
+            <a class="button button-secondary" href="{{ .RelPermalink }}">Check leave policy</a>
           {{ end }}
         </div>
         <div class="hero-stats">
           <div>
-            <span>Markdown-native</span>
-            <strong>Readable, fast, and simple to maintain</strong>
+            <span>First week</span>
+            <strong>Know what day one looks like and how onboarding unfolds</strong>
           </div>
           <div>
-            <span>Brand-aligned</span>
-            <strong>Deep navy, bright white, and Helixiora gold accents</strong>
+            <span>Time off</span>
+            <strong>See holiday allowance, sick leave, and how requests get approved</strong>
           </div>
           <div>
-            <span>Public-ready</span>
-            <strong>Static output optimized for GitHub Pages</strong>
+            <span>Everyday admin</span>
+            <strong>Find expenses, commuting support, and the right internal systems fast</strong>
           </div>
         </div>
       </div>
       <div class="hero-visual">
         <div class="hero-card">
-          <p class="hero-card-label">Publishing stack</p>
-          <h2>Hugo + Markdown + GitHub Pages</h2>
-          <p>Built for crisp documentation, fast deploys, and a visual language that feels technical without looking generic.</p>
+          <p class="hero-card-label">What lives here</p>
+          <h2>Onboarding, leave, expenses, and travel</h2>
+          <p>Built so employees can find practical answers quickly without digging through chat threads, HR emails, or old PDFs.</p>
         </div>
         <div class="hero-burst">
           {{ partial "circuit-burst.html" . }}
@@ -46,22 +46,22 @@
     <div class="container section-head">
       <div>
         <p class="eyebrow">Why this structure works</p>
-        <h2>Public documentation without the usual template feel</h2>
+        <h2>Employee information without the policy binder feel</h2>
       </div>
       <div class="section-copy">{{ .Content }}</div>
     </div>
     <div class="container feature-grid">
       <article class="feature-card">
-        <h3>Confident first impression</h3>
-        <p>The landing page behaves like a real public property, not a bare file index. It introduces the narrative, the design system, and the handbook depth immediately.</p>
+        <h3>New starters know where to begin</h3>
+        <p>The landing page points people straight to their first day, leave policy, and basic admin tasks instead of making them guess which page matters first.</p>
       </article>
       <article class="feature-card">
-        <h3>Handbook pages that read cleanly</h3>
-        <p>Long-form guidance gets a dedicated article layout with a table of contents, wide code blocks, and comfortable reading rhythm on desktop and mobile.</p>
+        <h3>Policies answer real questions</h3>
+        <p>Each page is shaped around concrete employee tasks: booking time off, filing an expense, setting up commuting, or knowing what to expect in week one.</p>
       </article>
       <article class="feature-card">
-        <h3>Deployment already wired</h3>
-        <p>The repository includes a GitHub Pages workflow, so publishing can stay operationally simple once the repo is pushed upstream.</p>
+        <h3>Simple to keep current</h3>
+        <p>The content still lives in Markdown, so updating allowance numbers, process steps, or tool links stays operationally light for whoever owns the handbook.</p>
       </article>
     </div>
   </section>
@@ -87,29 +87,29 @@
     <div class="container path-shell">
       <div class="path-copy">
         <p class="eyebrow">Suggested reading path</p>
-        <h2>Move from structure to operating rhythm</h2>
-        <p>Start by defining the shape of the handbook, then standardize tone and publication workflow so the site stays coherent as it grows.</p>
+        <h2>Move from day one to day-to-day basics</h2>
+        <p>Start with onboarding, then learn the recurring workflows people will return to throughout the year.</p>
       </div>
       <ol class="path-list">
         <li>
           <span>01</span>
           <div>
-            <strong>Frame the surface area</strong>
-            <p>Use the platform overview and getting started pages to define what belongs in the public handbook.</p>
+            <strong>Get through your first day smoothly</strong>
+            <p>Start with the onboarding page so you know what to expect before you arrive and what should be finished in week one.</p>
           </div>
         </li>
         <li>
           <span>02</span>
           <div>
-            <strong>Lock the voice</strong>
-            <p>Adopt consistent editorial rules so every page sounds intentional and professional.</p>
+            <strong>Learn the recurring admin flows</strong>
+            <p>Check time off and expense policies early so there is no ambiguity once you need them.</p>
           </div>
         </li>
         <li>
           <span>03</span>
           <div>
-            <strong>Ship on a repeatable cadence</strong>
-            <p>Use pull requests, previews, and the GitHub Pages workflow to publish changes without friction.</p>
+            <strong>Set up your commute and support channels</strong>
+            <p>Finish by reviewing public transport, reimbursement options, and the tools used for HR, payroll, and IT support.</p>
           </div>
         </li>
       </ol>
