@@ -13,6 +13,7 @@ Use one clear system per task:
 
 | Need | System | Owner |
 | --- | --- | --- |
+| Passwords and account secrets | [1Password](https://1password.com/) | Everyone |
 | Internal communication | [Slack](https://helixiora.slack.com) | Everyone |
 | Email, calendar, and docs | [Google Workspace](https://workspace.google.com/) | Everyone |
 | Project planning, documentation, issues, and strategy | [ClickUp](https://app.clickup.com/) | Team leads and managers |

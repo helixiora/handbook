@@ -14,7 +14,8 @@ This page is the practical security baseline for all Helixiora employees and con
 ## What you should do
 
 - Use strong authentication, including MFA on required systems.
-- Keep devices updated, encrypted, and protected with screen lock.
+- Use 1Password for all work-related passwords and secrets instead of browser-remembered passwords.
+- Keep devices updated, with full-disk encryption enabled, a screensaver/lock that triggers in under 5 minutes, and a firewall that is turned on.
 - Use only approved storage and sharing tools for company or client data.
 - Follow client-specific handling requirements and NDAs.
 - Use AI tools only within approved usage rules.
@@ -26,10 +27,10 @@ Security and leadership own standards. IT, managers, and founders own employee-f
 
 ## Where to go in the tool stack
 
-- Password manager for credential hygiene
+- [1Password](https://1password.com/) for passwords and account secrets
 - Approved storage/collaboration systems for data sharing
 - `IT Helpdesk` or incident channel for security reporting
 
 ## What happens if something goes wrong
 
-If you suspect account compromise, data leakage, or device theft, report it immediately using the incident path and follow containment instructions before attempting self-recovery.
+If you suspect account compromise, data leakage, or device theft, report it immediately using the incident path and follow containment instructions before attempting self-recovery. If you are unsure what to do in a specific situation, ask your manager first.
