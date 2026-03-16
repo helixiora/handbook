@@ -6,8 +6,8 @@
       <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
         <span class="brand-mark">{{ partial "brand-mark.html" . }}</span>
         <span class="brand-copy">
-          <strong>{{ site.Title }}</strong>
-          <span>{{ site.Params.tagline }}</span>
+          {{ partial "brand-wordmark.html" . }}
+          <span class="brand-tagline">{{ site.Params.tagline }}</span>
         </span>
       </a>
       <nav class="site-nav" aria-label="Primary navigation">
