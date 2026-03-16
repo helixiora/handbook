@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ $pages := sort .RegularPages "Weight" }}
+  <section class="page-hero">
+    <div class="container page-hero-shell">
+      <div>
+        <p class="eyebrow">{{ .Section | default "Helixiora" | humanize }}</p>
+        <h1>{{ .Title }}</h1>
+        <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
+      </div>
+      <div class="page-hero-panel">
+        <p>Built for public consumption: slim navigation, readable article pages, and a visual system borrowed from the Helixiora brand guide rather than a stock documentation theme.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-shell alt-shell">
+    <div class="container doc-grid">
+      {{ range $pages }}
+        {{ partial "doc-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

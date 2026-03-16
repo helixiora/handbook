@@ -1,0 +1,36 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Helixiora Handbook"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+summaryLength = 24
+
+[params]
+  description = "A public Helixiora handbook built for clear, brand-aligned, markdown-first publishing on GitHub Pages."
+  tagline = "Signals, systems, and public documentation."
+  author = "Helixiora"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+  name = "Handbook"
+  pageRef = "/docs"
+  weight = 10
+
+[[menus.main]]
+  name = "Getting Started"
+  pageRef = "/docs/getting-started"
+  weight = 20
+
+[[menus.main]]
+  name = "Publishing"
+  pageRef = "/docs/publishing-workflow"
+  weight = 30
+
+[[menus.main]]
+  name = "Standards"
+  pageRef = "/docs/editorial-standards"
+  weight = 40

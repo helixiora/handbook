@@ -1,0 +1,39 @@
+{{ partial "head.html" . }}
+<body class="kind-{{ .Kind }}">
+  <div class="page-backdrop"></div>
+  <header class="site-header">
+    <div class="container nav-shell">
+      <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
+        <span class="brand-mark">{{ partial "brand-mark.html" . }}</span>
+        <span class="brand-copy">
+          <strong>{{ site.Title }}</strong>
+          <span>{{ site.Params.tagline }}</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        {{ range site.Menus.main }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+      {{ with site.GetPage "/docs/getting-started" }}
+        <a class="nav-cta" href="{{ .RelPermalink }}">Start reading</a>
+      {{ end }}
+    </div>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="container footer-shell">
+      <div>
+        <p class="footer-title">Helixiora Handbook</p>
+        <p class="footer-copy">A public markdown handbook designed for GitHub Pages and shaped by the 2024 Helixiora brand guide.</p>
+      </div>
+      <div class="footer-links">
+        {{ with site.GetPage "/docs" }}<a href="{{ .RelPermalink }}">Browse the handbook</a>{{ end }}
+        <a href="https://github.com">Publish with GitHub Pages</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

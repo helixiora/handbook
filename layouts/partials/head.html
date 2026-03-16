@@ -1,0 +1,27 @@
+{{ $description := .Description | default .Summary | default site.Params.description }}
+{{ $title := site.Title }}
+{{ if not .IsHome }}
+  {{ $title = printf "%s | %s" .Title site.Title }}
+{{ end }}
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $description | plainify }}">
+  <meta name="theme-color" content="#0A1844">
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ $description | plainify }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ $title }}">
+  <meta name="twitter:description" content="{{ $description | plainify }}">
+  <link rel="icon" type="image/svg+xml" href="{{ "images/favicon.svg" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+  {{ $styles := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+</head>

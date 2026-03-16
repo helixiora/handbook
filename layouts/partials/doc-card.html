@@ -1,0 +1,9 @@
+<article class="doc-card">
+  <div class="doc-card-meta">
+    <span>{{ .Params.kicker | default "Handbook" }}</span>
+    <span>{{ .ReadingTime }} min read</span>
+  </div>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Params.lead | default .Summary }}</p>
+  <span class="doc-card-link">Read page</span>
+</article>

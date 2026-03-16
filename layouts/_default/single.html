@@ -1,0 +1,38 @@
+{{ define "main" }}
+  {{ $related := first 3 (where (where site.RegularPages "Section" .Section) "Permalink" "ne" .Permalink) }}
+  <section class="page-hero slim">
+    <div class="container article-hero">
+      <p class="eyebrow">{{ .Params.kicker | default (.Section | humanize) }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
+      <div class="article-meta">
+        <span>Updated {{ .Date.Format "2 January 2006" }}</span>
+        <span>{{ .ReadingTime }} min read</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="article-shell">
+    <div class="container article-grid">
+      <aside class="article-sidebar">
+        <div class="sidebar-panel">
+          <p class="sidebar-label">On this page</p>
+          <div class="toc-shell">
+            {{ .TableOfContents }}
+          </div>
+        </div>
+        <div class="sidebar-panel">
+          <p class="sidebar-label">More pages</p>
+          <div class="sidebar-links">
+            {{ range $related }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </aside>
+      <article class="prose article-body">
+        {{ .Content }}
+      </article>
+    </div>
+  </section>
+{{ end }}

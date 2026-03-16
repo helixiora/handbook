@@ -1,0 +1,118 @@
+{{ define "main" }}
+  {{ $docs := sort (where site.RegularPages "Section" "docs") "Weight" }}
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Helixiora public handbook</p>
+        <h1>{{ .Title }}</h1>
+        <p class="hero-lead">{{ .Params.lead }}</p>
+        <div class="hero-actions">
+          {{ with site.GetPage "/docs" }}
+            <a class="button button-primary" href="{{ .RelPermalink }}">Explore the handbook</a>
+          {{ end }}
+          {{ with site.GetPage "/docs/publishing-workflow" }}
+            <a class="button button-secondary" href="{{ .RelPermalink }}">See the publishing flow</a>
+          {{ end }}
+        </div>
+        <div class="hero-stats">
+          <div>
+            <span>Markdown-native</span>
+            <strong>Readable, fast, and simple to maintain</strong>
+          </div>
+          <div>
+            <span>Brand-aligned</span>
+            <strong>Deep navy, bright white, and Helixiora gold accents</strong>
+          </div>
+          <div>
+            <span>Public-ready</span>
+            <strong>Static output optimized for GitHub Pages</strong>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-card">
+          <p class="hero-card-label">Publishing stack</p>
+          <h2>Hugo + Markdown + GitHub Pages</h2>
+          <p>Built for crisp documentation, fast deploys, and a visual language that feels technical without looking generic.</p>
+        </div>
+        <div class="hero-burst">
+          {{ partial "circuit-burst.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-shell">
+    <div class="container section-head">
+      <div>
+        <p class="eyebrow">Why this structure works</p>
+        <h2>Public documentation without the usual template feel</h2>
+      </div>
+      <div class="section-copy">{{ .Content }}</div>
+    </div>
+    <div class="container feature-grid">
+      <article class="feature-card">
+        <h3>Confident first impression</h3>
+        <p>The landing page behaves like a real public property, not a bare file index. It introduces the narrative, the design system, and the handbook depth immediately.</p>
+      </article>
+      <article class="feature-card">
+        <h3>Handbook pages that read cleanly</h3>
+        <p>Long-form guidance gets a dedicated article layout with a table of contents, wide code blocks, and comfortable reading rhythm on desktop and mobile.</p>
+      </article>
+      <article class="feature-card">
+        <h3>Deployment already wired</h3>
+        <p>The repository includes a GitHub Pages workflow, so publishing can stay operationally simple once the repo is pushed upstream.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section-shell alt-shell">
+    <div class="container section-head">
+      <div>
+        <p class="eyebrow">Sample pages</p>
+        <h2>Start with these handbook sections</h2>
+      </div>
+      {{ with site.GetPage "/docs" }}
+        <a class="text-link" href="{{ .RelPermalink }}">View all pages</a>
+      {{ end }}
+    </div>
+    <div class="container doc-grid">
+      {{ range first 4 $docs }}
+        {{ partial "doc-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="section-shell">
+    <div class="container path-shell">
+      <div class="path-copy">
+        <p class="eyebrow">Suggested reading path</p>
+        <h2>Move from structure to operating rhythm</h2>
+        <p>Start by defining the shape of the handbook, then standardize tone and publication workflow so the site stays coherent as it grows.</p>
+      </div>
+      <ol class="path-list">
+        <li>
+          <span>01</span>
+          <div>
+            <strong>Frame the surface area</strong>
+            <p>Use the platform overview and getting started pages to define what belongs in the public handbook.</p>
+          </div>
+        </li>
+        <li>
+          <span>02</span>
+          <div>
+            <strong>Lock the voice</strong>
+            <p>Adopt consistent editorial rules so every page sounds intentional and professional.</p>
+          </div>
+        </li>
+        <li>
+          <span>03</span>
+          <div>
+            <strong>Ship on a repeatable cadence</strong>
+            <p>Use pull requests, previews, and the GitHub Pages workflow to publish changes without friction.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+{{ end }}
