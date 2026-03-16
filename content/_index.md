@@ -1,17 +1,14 @@
+++
+title = "Welcome to the Helixiora employee handbook"
+description = "A single place for practical information about working at Helixiora: onboarding, ways of working, time off, expenses, and local details."
+lead = "This handbook is here to answer the everyday questions you have about working at Helixiora."
 +++
-title = "Everything a new hire needs in one place"
-description = "A sleek Helixiora employee handbook built with Hugo for onboarding, leave, expenses, and commuting guidance."
-lead = "A modern employee handbook that answers the practical questions people have in their first week and throughout day-to-day work."
-+++
 
-This employee handbook answers the practical questions people have in their first week and throughout day-to-day work: clear starting points, readable policy pages, and quick answers to everyday questions around onboarding, leave, expenses, and travel.
+Use this handbook whenever you are unsure how something works in practice at Helixiora.
 
-## How to use this handbook
+- If you are **new**, read [Your First Day](/docs/first-day/) and [Welcome](/docs/welcome/) first.
+- For **day-to-day work**, check [How We Work](/docs/how-we-work/) and [Communication & Meetings](/docs/communication-and-meetings/).
+- For **time off, money, and travel**, use [Time Off & Holidays](/docs/time-off/), [Compensation & Benefits](/docs/compensation-and-benefits/), [Expenses](/docs/expenses/), and [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/).
+- For **tools and security**, keep [Tools & Support](/docs/tools-and-support/) and [Security & Data Handling](/docs/security-and-data-handling/) close.
 
-Start with [Welcome](/docs/welcome/) and [Your First Day](/docs/first-day/) if you are new. After that, use the docs section like an operations playbook:
-
-- Check [How We Work](/docs/how-we-work/) and [Communication & Meetings](/docs/communication-and-meetings/) for day-to-day norms.
-- Use [Time Off](/docs/time-off/), [Compensation & Benefits](/docs/compensation-and-benefits/), [Expenses](/docs/expenses/), and [Travel & Helixiora Connect](/docs/travel-and-helixiora-connect/) for practical people operations.
-- Keep [Tools & Support](/docs/tools-and-support/) and [Security & Data Handling](/docs/security-and-data-handling/) bookmarked for recurring workflows and urgent issues.
-
-If something in the handbook conflicts with your contract or local law, your contract and applicable law take precedence.
+If something in the handbook ever conflicts with your contract or local law, your contract and applicable law take precedence. When that happens, tell your manager so we can fix the page.*** End Patch***}"/>

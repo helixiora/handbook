@@ -18,7 +18,13 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ $title }}">
   <meta name="twitter:description" content="{{ $description | plainify }}">
-  <link rel="icon" type="image/svg+xml" href="{{ "images/favicon.svg" | relURL }}">
+  {{ $faviconBase := resources.Get "helixiora_icon_dark_blue-d8ca69e6-89a1-4a3e-a1c7-e49301d06e16.png" }}
+  {{ $favicon32 := $faviconBase.Resize "32x32" }}
+  {{ $favicon192 := $faviconBase.Resize "192x192" }}
+  {{ $favicon180 := $faviconBase.Resize "180x180" }}
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ $favicon32.RelPermalink }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ $favicon192.RelPermalink }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ $favicon180.RelPermalink }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">

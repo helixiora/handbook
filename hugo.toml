@@ -26,16 +26,11 @@ summaryLength = 24
   weight = 20
 
 [[menus.main]]
-  name = "Time Off"
-  pageRef = "/docs/time-off"
+  name = "Tools & Support"
+  pageRef = "/docs/tools-and-support"
   weight = 30
 
 [[menus.main]]
-  name = "Expenses"
-  pageRef = "/docs/expenses"
+  name = "FAQ"
+  pageRef = "/docs/faq"
   weight = 40
-
-[[menus.main]]
-  name = "Travel"
-  pageRef = "/docs/travel-and-helixiora-connect"
-  weight = 50

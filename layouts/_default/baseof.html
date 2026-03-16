@@ -27,11 +27,17 @@
     <div class="container footer-shell">
       <div>
         <p class="footer-title">{{ site.Title }}</p>
-        <p class="footer-copy">A practical handbook for onboarding, leave, expenses, commuting, and the systems employees rely on most often.</p>
+        <p class="footer-copy">A practical handbook for onboarding, ways of working, time off, expenses, and the tools people rely on most often.</p>
+        <p class="footer-copy small">
+          This handbook is open source. View or propose changes on
+          <a href="https://github.com/helixiora/handbook" target="_blank" rel="noopener noreferrer">GitHub</a>,
+          and learn more about Helixiora at
+          <a href="https://helixiora.com" target="_blank" rel="noopener noreferrer">helixiora.com</a>.
+        </p>
       </div>
       <div class="footer-links">
         {{ with site.GetPage "/docs" }}<a href="{{ .RelPermalink }}">Browse the handbook</a>{{ end }}
-        {{ with site.GetPage "/docs/expenses" }}<a href="{{ .RelPermalink }}">Expenses policy</a>{{ end }}
+        {{ with site.GetPage "/docs/faq" }}<a href="{{ .RelPermalink }}">FAQ</a>{{ end }}
       </div>
     </div>
   </footer>
