@@ -6,7 +6,7 @@
       <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
         <span class="brand-mark">{{ partial "brand-mark.html" . }}</span>
         <span class="brand-copy">
-          {{ partial "brand-wordmark.html" . }}
+          <strong>{{ site.Title }}</strong>
           <span class="brand-tagline">{{ site.Params.tagline }}</span>
         </span>
       </a>
