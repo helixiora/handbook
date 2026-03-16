@@ -14,11 +14,38 @@ This page explains how Helixiora handles commuting support, client travel, and c
 
 ## What you should do
 
-- Use standard commuting support where available.
-- Get approval before booking non-routine or international travel.
-- Follow sensible booking rules for rail, hotel, and taxi usage.
-- File travel costs through the expense process with clear receipts.
-- Review Helixiora Connect expectations before each event.
+- Use reasonable judgment and choose practical transport that gets you to the client and back.
+- Discuss hotels, flights, or other larger travel costs with your manager in advance where possible.
+- Use the normal expense route for your contract form and keep clear receipts.
+- Treat Helixiora Connect travel the same way: reasonable bookings, clear receipts, and early discussion when costs are higher.
+
+## Current travel rules
+
+### Day-to-day travel
+
+We do not try to over-specify every trip. The expectation is simple: use reasonable travel options for the situation and do not optimize for luxury.
+
+### Public transport in the Netherlands
+
+Public transport in the Netherlands should normally be booked or traveled in second class. If trains are especially busy, you are free to upgrade to first class.
+
+For people in the Netherlands, an `NS Business Card` can be provided when it is genuinely needed for work.
+
+### Flights
+
+Flights are economy only. That applies to founders as well.
+
+### Hotels and taxis
+
+Use hotels or taxis when they are reasonably needed for timing, safety, or practicality. If you are unsure, ask your manager before booking.
+
+### Approval threshold
+
+Discuss flights, hotels, and other travel expenses over EUR 200 with your manager in advance where possible.
+
+### Helixiora Connect
+
+Helixiora Connect is fully covered by the company. Travel, hotels, and related event costs should still follow the normal expense process, and larger items should still be discussed in advance.
 
 ## Who owns or approves it
 
@@ -26,9 +53,9 @@ Managers approve travel need and budget. Finance approves reimbursement policy. 
 
 ## Where to go in the tool stack
 
-- `HR Portal` for mobility program setup
-- `Expense Portal` for travel claims
-- Project planning tools for client trip coordination
+- Your manager for approval and exceptions
+- Deel or email for expense submission, depending on your contract form
+- Project planning tools for client trip coordination when relevant
 
 ## What happens if something goes wrong
 

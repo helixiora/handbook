@@ -25,10 +25,10 @@ Founders and managers own handbook content, with input from Finance, IT, and lea
 
 ## Where to go in the tool stack
 
-- `HR Portal` for leave and personal records
-- `Payroll Portal` for payslips and tax documents
-- `Expense Portal` for reimbursements
-- `IT Helpdesk` for access and device support
+- Your manager, calendar, and Slack for leave and availability
+- The payroll route that matches your country and contract form
+- Deel or email for expenses, depending on contract form
+- Walter for access and device support
 
 ## What happens if something goes wrong
 

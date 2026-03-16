@@ -21,18 +21,32 @@ Know and follow policies on:
 - Grievance and escalation pathways
 - Whistleblowing route (if applicable)
 
+## Reporting route
+
+The reporting route is intentionally simple:
+
+- Raise concerns with Robin first.
+- If the concern is about Robin, or you do not feel comfortable raising it with him, go to Walter instead.
+
+Use that same routing for:
+
+- harassment or discrimination concerns
+- interpersonal grievances or behavior issues
+- conflicts of interest and disclosure questions
+- serious integrity or whistleblowing concerns
+
 ## Who owns or approves it
 
-Founders and managers own this content and escalation process. Leadership approves policy direction and accountability standards.
+Robin and Walter own this content and the escalation path.
 
 ## Where to go in the tool stack
 
-- `HR Portal` for policy acknowledgements and guidance links
-- Designated reporting channels for formal concerns
+- Directly to Robin
+- Directly to Walter if Robin is involved or you would rather not raise it with Robin
 
 ## What happens if something goes wrong
 
-If you experience or witness policy violations, document what happened and report through the appropriate channel. Reports are handled with confidentiality to the extent possible and non-retaliation expectations apply.
+If you experience or witness a policy issue, document the facts as clearly as you can and report them through the route above. Concerns should be handled confidentially as far as possible, and retaliation is not acceptable.
 
 ## Related pages
 

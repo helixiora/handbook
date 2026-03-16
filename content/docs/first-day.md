@@ -12,7 +12,7 @@ description = "First-day onboarding guide for setup, access, and first-week outc
 Before day one, make sure these basics are already in motion. If you are coming to the office at The Hague Tech, your manager will confirm the exact meeting point and arrival time.
 
 - Your signed contract is on file.
-- Your home address and emergency contact are in the HR portal.
+- Any contract-specific onboarding or payroll paperwork has been shared and is in progress.
 - A laptop, charger, and core accounts have been prepared.
 - Your manager has shared your arrival time and office location.
 
@@ -40,9 +40,10 @@ By the end of your first day, you should have access to:
 - ClickUp
 - GitHub (if your role needs it)
 - Password manager
-- HR and expense systems
+- Deel if your contract setup uses it
+- Any country- or contract-specific payroll setup you need
 
-If anything is missing, raise it immediately through the IT support channel rather than waiting for the end of the week.
+If anything is missing, ask Walter immediately rather than waiting for the end of the week.
 
 ## Your first-week checklist
 

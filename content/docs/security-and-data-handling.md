@@ -29,7 +29,7 @@ Security and leadership own standards. IT, managers, and founders own employee-f
 
 - [1Password](https://1password.com/) for passwords and account secrets
 - Approved storage/collaboration systems for data sharing
-- `IT Helpdesk` or incident channel for security reporting
+- Walter directly, or your manager if you cannot reach Walter, for device and account incidents
 
 ## What happens if something goes wrong
 

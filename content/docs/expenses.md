@@ -9,7 +9,13 @@ description = "Expenses policy for reimbursable spending, submission steps, and 
 
 ## Where to file expenses
 
-All reimbursements should be submitted through the `Expense Portal`. Do not send receipts directly to finance unless someone has explicitly asked you to do so. For system ownership and routing, see [Tools & Support](/docs/tools-and-support/).
+Helixiora does not currently use one universal expense portal.
+
+- If your setup runs through Deel, submit expenses there.
+- Otherwise, use the email route that matches your contract form.
+- If you are unsure which route applies to you, ask your manager before submitting.
+
+For system ownership and routing, see [Tools & Support](/docs/tools-and-support/).
 
 Each claim should include:
 
@@ -33,17 +39,17 @@ When in doubt, ask before spending rather than after.
 
 ## How to submit an expense
 
-1. Open the `Expense Portal`.
-2. Upload the receipt within 10 calendar days.
+1. Use Deel or the email route that matches your contract form.
+2. Upload or attach the receipt within 10 calendar days.
 3. Choose the right category.
 4. Add the business reason in one sentence.
-5. Submit for manager approval.
+5. Make sure your manager is aware in advance if the cost is unusual, travel-related, or over EUR 200.
 
-Approved claims submitted before the 20th of the month are typically reimbursed with the next payroll cycle.
+Reimbursement timing follows the normal payment cycle for your employment or contract setup.
 
 ## Card payments and out-of-pocket costs
 
-If the company issues a payment card, every transaction still needs a receipt and category in the expense tool. Card usage removes the reimbursement step, but not the documentation requirement.
+If the company issues a payment card, every transaction still needs a receipt and category in the expense route you use. Card usage removes the reimbursement step, but not the documentation requirement.
 
 For out-of-pocket spending:
 
@@ -58,7 +64,7 @@ Most delays happen for predictable reasons:
 - Missing receipts
 - Vague descriptions like `meeting` or `travel`
 - Wrong category selection
-- No manager approval
+- No prior discussion for larger or unusual spend
 
 Fast reimbursement depends on clean submissions, not finance chasing missing details.
 

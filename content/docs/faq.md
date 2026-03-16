@@ -21,7 +21,7 @@ Use the payroll support route described in [Compensation & Benefits](/docs/compe
 
 ### How do I book leave?
 
-Use the HR workflow in [Time Off & Holidays](/docs/time-off/).
+Ask your manager, then keep the absence visible in your calendar and Slack as described in [Time Off & Holidays](/docs/time-off/).
 
 ### What if I am sick?
 
@@ -45,7 +45,7 @@ Managers and founders own this page and route updates to Finance, IT, and leader
 
 ## Where to go in the tool stack
 
-Follow the linked page for each question and use the system named there (`HR Portal`, `Expense Portal`, `Payroll Portal`, `IT Helpdesk`).
+Follow the linked page for each question. In practice, many answers today are a direct route to your manager, Robin, Walter, Deel, or your contract-specific payroll setup rather than a single company portal.
 
 ## What happens if something goes wrong
 

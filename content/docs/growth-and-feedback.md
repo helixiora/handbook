@@ -19,19 +19,39 @@ This page explains how performance, development, and role growth work in practic
 - Use available learning support to build role-relevant capability.
 - Track impact and scope changes when discussing role growth.
 
+## How growth works today
+
+Helixiora keeps this lightweight on purpose because the team is still small.
+
+### 1:1s
+
+Regular 1:1s with your manager are the main rhythm for feedback, coaching, and development planning. Use them to discuss priorities, blockers, performance, and growth.
+
+### Reviews
+
+We aim to do formal reviews once per quarter. In practice, timing can move a little when delivery work gets in the way, but the expectation is that feedback should stay regular and not disappear for long stretches.
+
+### Raises and promotions
+
+Raises and promotions are decided case by case rather than through a rigid annual cycle. Your manager and the founders look at scope, impact, consistency, and company context when making those decisions.
+
+### Learning and development
+
+We do not currently have a fixed learning budget or a formal company-wide competency framework. If a course, event, coaching, or other development spend would help you do better work, ask your manager.
+
 ## Who owns or approves it
 
-Managers own day-to-day coaching. Leadership and founders own calibration, progression criteria, and process fairness.
+Managers own day-to-day coaching and regular 1:1s. Founders decide case-by-case raises and promotions with manager input.
 
 ## Where to go in the tool stack
 
-- Performance/goal tool (if used) for priorities and review notes
-- Calendar and docs for 1:1 preparation and follow-up
-- HR systems for formal development program records
+- Calendar for 1:1 cadence and review scheduling
+- Shared docs or notes for written feedback and follow-up
+- Your manager for any learning or development request
 
 ## What happens if something goes wrong
 
-If expectations feel unclear or inconsistent, ask for written criteria and examples. Escalate unresolved concerns to your manager and founders.
+If expectations feel unclear, ask your manager to write down what good performance looks like in your role. If regular check-ins or reviews are slipping, raise it directly instead of letting it drift.
 
 ## Related pages
 

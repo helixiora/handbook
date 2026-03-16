@@ -22,13 +22,13 @@ For country-specific holiday handling, check [Local appendices](/docs/local/).
 
 ## How to request time off
 
-Time off should be registered in the HR portal, not handled only in chat or email. For system routing, see [Tools & Support](/docs/tools-and-support/).
+There is currently no separate HR portal for leave. Time off should be agreed directly with your manager and made visible to the team.
 
-1. Open the `HR Portal`.
-2. Go to `Time Off`.
-3. Select your dates and leave type.
-4. Add a short note if coverage or handoff matters.
-5. Submit the request for manager approval.
+1. Ask your manager in writing.
+2. Agree the dates and any coverage or handoff needs.
+3. Put the absence in your calendar.
+4. Update your Slack status when the time off starts.
+5. If the leave affects client or team work, leave a short written handoff.
 
 For leave blocks longer than three working days, submit the request at least two weeks in advance where possible.
 
@@ -38,7 +38,7 @@ If you are sick, do not log this as vacation.
 
 - Notify your manager before 09:00 in your local time zone.
 - Mark yourself unavailable in Slack.
-- Register the absence in the HR portal the same day.
+- Keep your manager updated in writing, since there is no separate HR system today.
 
 If your absence lasts multiple days, stay in touch with your manager on the expected return date and any handoff implications.
 

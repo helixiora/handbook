@@ -11,7 +11,7 @@ description = "Core systems, ownership, and support routing across Helixiora."
 
 Use one clear system per task:
 
-| Need | System | Owner |
+| Need | System or route | Owner |
 | --- | --- | --- |
 | Passwords and account secrets | [1Password](https://1password.com/) | Everyone |
 | Internal communication | [Slack](https://helixiora.slack.com) | Everyone |
@@ -19,11 +19,15 @@ Use one clear system per task:
 | Project planning, documentation, issues, and strategy | [ClickUp](https://app.clickup.com/) | Team leads and managers |
 | Source control and code collaboration | [GitHub (Helixiora)](https://github.com/helixiora) | Engineering |
 | Billable and contract-based time registration | [Harvest](https://id.getharvest.com/) | People with billable hours or contract-based work |
-| Receipts and reimbursements | `Expense Portal` | Finance |
-| Payslips and tax documents | `Payroll Portal` | Finance |
+| Leave and sick leave | Your manager, plus calendar and Slack visibility | Everyone |
+| Receipts and reimbursements | Deel or email, depending on contract form | Finance / your manager |
+| Payslips and tax documents | Depends on country and contract form | Robin |
+| Access and device support | Ask Walter directly | Walter |
 | Website CMS | [WordPress](https://wordpress.com/) | Marketing / Web owner |
 | Cloud hosting and infrastructure | [Azure](https://portal.azure.com/), [AWS](https://console.aws.amazon.com/), [Hetzner](https://console.hetzner.cloud/), [Linode](https://cloud.linode.com/) | Engineering / Platform |
 | Design and visual content | [Figma](https://www.figma.com/files/recent), [Canva](https://www.canva.com/) | Design and content owners |
+
+There is currently no single HR portal. Some admin workflows still depend on country and contract form.
 
 ## Support channels
 
@@ -31,10 +35,12 @@ Use clear rules for where support should start:
 
 - Internal coordination: use Slack channels by default.
 - Time registration: use Harvest if you run billable hours or work on a contract basis.
-- Expense questions: comment on the claim first, then contact finance if blocked.
+- Leave and sick leave: tell your manager directly and keep your calendar and Slack status accurate.
+- Expense questions: use Deel or the email route that matches your contract form. Ask your manager if you are unsure.
+- Payroll questions: ask Robin.
 - Project and documentation questions: use the relevant ClickUp space/task.
 - Code and engineering collaboration: use GitHub issues and pull requests.
-- Urgent access issues: contact your manager and engineering support immediately.
+- Urgent access issues: contact Walter immediately.
 
 ## External channels and public presence
 
