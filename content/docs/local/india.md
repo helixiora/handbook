@@ -33,7 +33,7 @@ NOTICE: We do not normally hire in India as a standard location (outside NL hiri
 
 ## Who owns or approves it
 
-Until we have a formalized process, the founders own this appendix and approves hiring in India.
+Until we have a formal People Operations function, your manager and the founders own this appendix and approve any India exception hiring case.
 
 ## Where to go in the tool stack
 

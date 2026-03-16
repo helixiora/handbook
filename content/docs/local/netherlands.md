@@ -23,7 +23,7 @@ Use this page to confirm:
 
 ## Who owns or approves it
 
-People Operations and local payroll/legal partners own this appendix.
+Until we have a formal People Operations function, your manager and the founders own this appendix, with support from local payroll/legal partners.
 
 ## Where to go in the tool stack
 
