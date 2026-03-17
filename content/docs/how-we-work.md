@@ -23,6 +23,17 @@ This page defines the default working model at Helixiora: remote-first, low-bure
 - **Keep experimenting:** Actively look for better AI tools and workflows instead of settling for the current default.
 - **Definition of done:** Work is done when the outcome is delivered, documented, and handoff-ready.
 
+## Remote work and laptop security
+
+Remote-first work does not lower the security baseline. If you work from home, while traveling, or from shared spaces, you are expected to protect your laptop and work sessions in practical ways.
+
+- Keep your laptop with you, or locked away, when it is not in use.
+- Do not leave work devices visible in cars, hotel lobbies, cafes, or other public places.
+- Lock your screen whenever you step away, even briefly.
+- Use full-disk encryption, automatic locking, and OS updates as part of the standard laptop setup.
+- Be careful with screens and conversations in public or shared spaces where others can see or overhear client or company information.
+- Report lost or stolen devices immediately using the route in [Security & Data Handling](/docs/security-and-data-handling/).
+
 ## Who owns or approves it
 
 Leadership reinforces these norms and approves company-wide working expectations.
@@ -37,4 +48,4 @@ Leadership reinforces these norms and approves company-wide working expectations
 
 If expectations are unclear, ask leadership to clarify scope, urgency, and ownership. If blockers persist, escalate early rather than letting work stall silently.
 
-For Helixiora's specific expectations around AI experimentation, read [AI & Experimentation](/docs/ai-and-experimentation/).
+For Helixiora's specific expectations around AI experimentation, read [AI & Experimentation](/docs/ai-and-experimentation/). For the device baseline that supports remote work, also read [Security & Data Handling](/docs/security-and-data-handling/) and [Engineering Starter Kit](/docs/engineering-starter-kit/).

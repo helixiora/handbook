@@ -4,7 +4,7 @@ date = 2026-03-16T08:33:00+01:00
 weight = 60
 kicker = "Policies"
 lead = "This page summarizes core people policies in plain language and points to the right escalation route when issues arise."
-description = "Code of conduct, equality, anti-harassment, conflict of interest, and grievance paths."
+description = "Code of conduct, equality, anti-harassment, conflict of interest, grievance paths, and disciplinary process."
 owner = "people"
 applies_to = "All employees and contractors"
 +++
@@ -21,6 +21,7 @@ Know and follow policies on:
 - Equal opportunity and anti-harassment
 - Conflicts of interest and disclosure expectations
 - Grievance and escalation pathways
+- Disciplinary consequences for serious or repeated policy breaches
 - Whistleblowing route (if applicable)
 
 ## Reporting route
@@ -37,6 +38,27 @@ Use that same routing for:
 - conflicts of interest and disclosure questions
 - serious integrity or whistleblowing concerns
 
+## Disciplinary process
+
+Helixiora prefers fast feedback and correction over bureaucracy, but serious or repeated breaches of company policy can lead to formal disciplinary action.
+
+This includes, for example:
+
+- harassment, discrimination, or retaliation
+- deliberate security bypasses or repeated disregard of security rules
+- misuse of company or client systems, data, or confidential information
+- integrity issues such as dishonesty, conflicts of interest, or policy evasion
+
+The usual process is:
+
+1. The People lead reviews the concern, gathers the facts, and involves the Technology lead when the issue has technical, security, or client-delivery impact.
+2. The person involved is told the concern and given a fair chance to respond.
+3. Helixiora decides on the outcome based on severity, intent, and pattern of behavior.
+
+Outcomes can include coaching, a documented warning, temporary access restrictions, removal from a client assignment, or termination of employment or contract where justified.
+
+If immediate risk exists to people, client data, or company systems, Helixiora may restrict access or pause work before the review is complete.
+
 ## Who owns or approves it
 
 The People lead (Robin) owns this content and the primary escalation path. The Technology lead (Walter) is the alternate escalation route when the concern involves the People lead route.
@@ -48,7 +70,7 @@ The People lead (Robin) owns this content and the primary escalation path. The T
 
 ## What happens if something goes wrong
 
-If you experience or witness a policy issue, document the facts as clearly as you can and report them through the route above. Concerns should be handled confidentially as far as possible, and retaliation is not acceptable.
+If you experience or witness a policy issue, document the facts as clearly as you can and report them through the route above. Concerns should be handled confidentially as far as possible, and retaliation is not acceptable. Prompt reporting matters because delays can make people, client, or security risks worse.
 
 ## Related pages
 
