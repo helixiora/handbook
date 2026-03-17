@@ -5,6 +5,8 @@ weight = 41
 kicker = "Quarterly Off-Site"
 lead = "Helixiora Connect is our quarterly off-site: time to work together in person, align as a company, and strengthen the relationships that make remote work function well."
 description = "What Helixiora Connect is, why it matters, and how travel, cost coverage, and planning work."
+owner = "people"
+applies_to = "Anyone attending Helixiora Connect"
 +++
 
 ## What this page is for
@@ -16,8 +18,8 @@ This page explains what Helixiora Connect is, why it matters, and how to handle 
 - Treat Helixiora Connect as an important company moment, not an optional afterthought.
 - Plan travel early and use reasonable booking choices.
 - Follow the normal expense route for your contract form and keep receipts.
-- Discuss hotels, flights, or other costs over EUR 200 with Robin in advance where possible.
-- Tell Robin early if something may affect your attendance or travel plan.
+- Discuss hotels, flights, or other costs over EUR 200 with the People lead (Robin) in advance where possible.
+- Tell the People lead (Robin) early if something may affect your attendance or travel plan.
 
 ## What Helixiora Connect is
 
@@ -72,14 +74,14 @@ For the broader travel rules, also read [Travel & Helixiora Connect](/docs/trave
 
 ## Who owns or approves it
 
-Robin and Walter own Helixiora Connect planning and expectations. Robin is the first point of contact for attendance, booking questions, and higher-cost exceptions.
+The People lead (Robin) owns Helixiora Connect planning, attendance handling, and higher-cost exceptions. The Technology lead (Walter) supports delivery-related or technical issues tied to the event.
 
 ## Where to go in the tool stack
 
 - Calendar for event timing and travel planning
-- Robin for approval questions or exceptions
+- People lead (Robin) for approval questions or exceptions
 - Deel or email for expenses, depending on your contract form
 
 ## What happens if something goes wrong
 
-If travel changes, costs increase, or you may not be able to attend, raise it early with Robin so the plan can be adjusted without last-minute surprises.
+If travel changes, costs increase, or you may not be able to attend, raise it early with the People lead so the plan can be adjusted without last-minute surprises.

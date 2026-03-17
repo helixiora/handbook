@@ -5,6 +5,8 @@ weight = 5
 kicker = "Start Here"
 lead = "This handbook is a practical guide to how work gets done at Helixiora: clear steps, clear owners, and clear escalation paths."
 description = "Purpose, scope, ownership, and precedence rules for the Helixiora employee handbook."
+owner = "handbook"
+applies_to = "All employees and contractors"
 +++
 
 ## What this page is for
@@ -21,17 +23,17 @@ The handbook is for practical operating guidance: onboarding, ways of working, l
 
 ## Who owns or approves it
 
-Robin and Walter own handbook content, with domain-specific input where needed.
+The handbook owners maintain this page, with domain-specific input where needed.
 
 ## Where to go in the tool stack
 
-- Robin, calendar, and Slack for leave and availability
+- People lead (Robin), calendar, and Slack for leave and availability
 - The payroll route that matches your country and contract form
 - Deel or email for expenses, depending on contract form
-- Walter for access and device support
+- Technology lead (Walter) for access and device support
 
 ## What happens if something goes wrong
 
 If handbook guidance conflicts with your contract or applicable law, your contract and local law take precedence.
 
-If a process in this handbook fails in practice, raise it in the relevant owner channel and notify Robin or Walter so the page can be corrected.
+If a process in this handbook fails in practice, raise it in the relevant owner channel and notify the handbook owners so the page can be corrected.

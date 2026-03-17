@@ -5,6 +5,8 @@ weight = 60
 kicker = "Policies"
 lead = "This page summarizes core people policies in plain language and points to the right escalation route when issues arise."
 description = "Code of conduct, equality, anti-harassment, conflict of interest, and grievance paths."
+owner = "people"
+applies_to = "All employees and contractors"
 +++
 
 ## What this page is for
@@ -25,8 +27,8 @@ Know and follow policies on:
 
 The reporting route is intentionally simple:
 
-- Raise concerns with Robin first.
-- If the concern is about Robin, or you do not feel comfortable raising it with him, go to Walter instead.
+- Raise concerns with the People lead (Robin) first.
+- If the concern is about that route, or you do not feel comfortable using it, go to the Technology lead (Walter) instead.
 
 Use that same routing for:
 
@@ -37,12 +39,12 @@ Use that same routing for:
 
 ## Who owns or approves it
 
-Robin and Walter own this content and the escalation path.
+The People lead (Robin) owns this content and the primary escalation path. The Technology lead (Walter) is the alternate escalation route when the concern involves the People lead route.
 
 ## Where to go in the tool stack
 
-- Directly to Robin
-- Directly to Walter if Robin is involved or you would rather not raise it with Robin
+- Directly to the People lead (Robin)
+- Directly to the Technology lead (Walter) if the concern involves the People lead route or you would rather not use it
 
 ## What happens if something goes wrong
 

@@ -6,6 +6,8 @@ kicker = "Travel"
 lead = "Travel guidance covers routine mobility, business trips, and Helixiora Connect gatherings so approvals, spending, and expectations are predictable."
 description = "Commuting, business travel, approvals, reimbursements, and Helixiora Connect guidance."
 aliases = ["/docs/public-transport/"]
+owner = "people"
+applies_to = "Anyone travelling for Helixiora work"
 +++
 
 ## What this page is for
@@ -15,7 +17,7 @@ This page explains how Helixiora handles commuting support, client travel, and c
 ## What you should do
 
 - Use reasonable judgment and choose practical transport that gets you to the client and back.
-- Discuss hotels, flights, or other larger travel costs with Robin in advance where possible.
+- Discuss hotels, flights, or other larger travel costs with the People lead (Robin) in advance where possible.
 - Use the normal expense route for your contract form and keep clear receipts.
 - Treat Helixiora Connect travel the same way: reasonable bookings, clear receipts, and early discussion when costs are higher.
 
@@ -37,11 +39,11 @@ Flights are economy only. That applies to founders as well.
 
 ### Hotels and taxis
 
-Use hotels or taxis when they are reasonably needed for timing, safety, or practicality. If you are unsure, ask Robin before booking.
+Use hotels or taxis when they are reasonably needed for timing, safety, or practicality. If you are unsure, ask the People lead before booking.
 
 ### Approval threshold
 
-Discuss flights, hotels, and other travel expenses over EUR 200 with Robin in advance where possible.
+Discuss flights, hotels, and other travel expenses over EUR 200 with the People lead in advance where possible.
 
 ### Helixiora Connect
 
@@ -51,14 +53,14 @@ For the purpose, format, and planning expectations of the quarterly off-site its
 
 ## Who owns or approves it
 
-Robin approves travel need, budget, and reimbursement policy. Walter contributes when travel is tied to engineering delivery or technical customer work. Robin and Walter own company-gathering guidance.
+The People lead (Robin) approves travel need, budget, and reimbursement policy. The Technology lead (Walter) contributes when travel is tied to engineering delivery or technical customer work. Leadership owns company-gathering guidance.
 
 ## Where to go in the tool stack
 
-- Robin for approval and exceptions
+- People lead (Robin) for approval and exceptions
 - Deel or email for expense submission, depending on your contract form
 - Project planning tools for client trip coordination when relevant
 
 ## What happens if something goes wrong
 
-If travel changes or incidents occur, notify Robin as soon as possible and capture expenses and exceptions in writing so approvals and reimbursements stay auditable.
+If travel changes or incidents occur, notify the People lead as soon as possible and capture expenses and exceptions in writing so approvals and reimbursements stay auditable.

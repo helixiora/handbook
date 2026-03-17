@@ -1,0 +1,6 @@
+{{- $key := . -}}
+{{- with index site.Data.handbook.owners $key -}}
+  {{- . -}}
+{{- else -}}
+  {{- $key -}}
+{{- end -}}

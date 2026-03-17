@@ -5,6 +5,8 @@ weight = 45
 kicker = "Security"
 lead = "Security is part of daily delivery: protect accounts and devices, handle client data carefully, and report incidents quickly."
 description = "Security baseline for authentication, device safety, data handling, AI usage, and incident reporting."
+owner = "technology"
+applies_to = "All employees and contractors"
 +++
 
 ## What this page is for
@@ -29,7 +31,7 @@ This page is the practical security baseline for all Helixiora employees and con
 
 ## Who owns or approves it
 
-Walter owns technical security standards and incident response. Robin owns employee-facing policy updates and security-related process communication.
+The Technology lead (Walter) owns technical security standards and incident response. The People lead (Robin) owns employee-facing policy updates and security-related process communication.
 
 ## Where to go in the tool stack
 
@@ -37,8 +39,8 @@ Walter owns technical security standards and incident response. Robin owns emplo
 - Approved storage/collaboration systems for data sharing
 - [AI & Experimentation](/docs/ai-and-experimentation/) for the company expectation around AI usage and spend
 - [Engineering Starter Kit](/docs/engineering-starter-kit/) for the standard engineer laptop and account baseline
-- Walter directly, or Robin if you cannot reach Walter, for device and account incidents
+- Technology lead (Walter), or People lead (Robin) if Walter is unavailable, for device and account incidents
 
 ## What happens if something goes wrong
 
-If you suspect account compromise, data leakage, or device theft, report it immediately using the incident path and follow containment instructions before attempting self-recovery. If you are unsure what to do in a specific situation, ask Walter first, or Robin if Walter is unavailable.
+If you suspect account compromise, data leakage, or device theft, report it immediately using the incident path and follow containment instructions before attempting self-recovery. If you are unsure what to do in a specific situation, ask the Technology lead (Walter) first, or the People lead (Robin) if Walter is unavailable.

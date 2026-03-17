@@ -5,15 +5,17 @@ weight = 20
 kicker = "Leave"
 lead = "Employees should be able to answer two questions quickly: how much leave they get, and exactly how they request it."
 description = "Time off, holiday handling, leave request flow, and sick leave process."
+owner = "people"
+applies_to = "Anyone taking leave or reporting sickness"
 +++
 
 ## Holiday allowance
 
-Helixiora uses an unlimited paid holiday leave approach, based on responsible planning and Robin alignment.
+Helixiora uses an unlimited paid holiday leave approach, based on responsible planning and People lead alignment.
 
 | Leave type | Policy |
 | --- | --- |
-| Annual leave | Unlimited paid leave, planned with Robin |
+| Annual leave | Unlimited paid leave, planned with the People lead |
 | Public holidays | Follow location-specific handling in local appendices |
 | Planning expectation | Balance team coverage and customer commitments |
 | Approval model | Submit and agree leave in advance where possible |
@@ -22,9 +24,9 @@ For country-specific holiday handling, check [Local appendices](/docs/local/).
 
 ## How to request time off
 
-There is currently no separate HR portal for leave. Time off should be agreed directly with Robin and made visible to the team.
+There is currently no separate HR portal for leave. Time off should be agreed directly with the People lead and made visible to the team.
 
-1. Ask Robin in writing.
+1. Ask the People lead in writing.
 2. Agree the dates and any coverage or handoff needs.
 3. Put the absence in your calendar.
 4. Update your Slack status when the time off starts.
@@ -36,11 +38,11 @@ For leave blocks longer than three working days, submit the request at least two
 
 If you are sick, do not log this as vacation.
 
-- Notify Robin before 09:00 in your local time zone. If he is unavailable, notify Walter.
+- Notify the People lead (Robin) before 09:00 in your local time zone. If unavailable, notify the Technology lead (Walter).
 - Mark yourself unavailable in Slack.
-- Keep Robin updated in writing, since there is no separate HR system today.
+- Keep the People lead updated in writing, since there is no separate HR system today.
 
-If your absence lasts multiple days, stay in touch with Robin on the expected return date and any handoff implications.
+If your absence lasts multiple days, stay in touch with the People lead on the expected return date and any handoff implications.
 
 ## Practical rules
 

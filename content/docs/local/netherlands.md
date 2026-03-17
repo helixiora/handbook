@@ -5,6 +5,8 @@ weight = 210
 kicker = "Local"
 lead = "Local Dutch employment details that complement the global handbook."
 description = "Netherlands-specific leave, holidays, sick leave, pension, and commuting details."
+owner = "people"
+applies_to = "People employed or engaged through the Netherlands setup"
 +++
 
 ## What this page is for
@@ -78,17 +80,21 @@ Internships are normally 6 months. Final duration can be adjusted based on your 
 
 We do not currently offer a pension or retirement plan in the Netherlands.
 
-If you need a public transport card for work, ask Robin.
+If you need a public transport card for work, ask the People lead (Robin).
 
 Helixiora rents a small office inside The Hague Tech in The Hague, at Waldorpstraat 5, 2521 CA Den Haag. This space is used for co-working, client meetings, and Helixiora Connect sessions.
 
 ## Who owns or approves it
 
-Until we have a formal People Operations function, Robin owns this appendix, with support from local payroll/legal partners.
+Until we have a formal People Operations function, the People lead (Robin) owns this appendix, with support from local payroll/legal partners.
 
 ## Where to go in the tool stack
 
-Use the same global systems (`HR Portal`, `Payroll Portal`, `Expense Portal`) with local process rules from this page.
+Use the same routes described in [Tools & Support](/docs/tools-and-support/), with local process rules from this page:
+
+- local payroll provider for Netherlands salaried payroll
+- Deel or the contract-specific email route for expenses and reimbursements
+- People lead (Robin) if you are unsure which route applies to you
 
 ## What happens if something goes wrong
 
@@ -96,7 +102,7 @@ Dutch labor law takes precedence over this page.
 
 If this page and Dutch labor law differ, we follow the law where it provides better protection or terms for you.
 
-If you notice a conflict with the law, please tell Robin or open a PR in the handbook repository: [github.com/helixiora/handbook](https://github.com/helixiora/handbook/pulls).
+If you notice a conflict with the law, please tell the People lead (Robin) or open a PR in the handbook repository: [github.com/helixiora/handbook](https://github.com/helixiora/handbook/pulls).
 
 ## Related pages
 

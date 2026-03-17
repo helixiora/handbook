@@ -61,7 +61,7 @@
             {{ with .Params.owner }}
               <div>
                 <dt>Owner</dt>
-                <dd>{{ . }}</dd>
+                <dd>{{ partial "resolve-owner.html" . }}</dd>
               </div>
             {{ end }}
             {{ with .Params.applies_to }}

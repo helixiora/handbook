@@ -5,6 +5,8 @@ weight = 12
 kicker = "Engineering"
 lead = "Engineers should be able to get from a fresh company laptop to a secure, usable baseline without chasing setup advice in chat."
 description = "Default engineering laptop, account, and tool baseline for Helixiora."
+owner = "technology"
+applies_to = "Engineers and technical contributors"
 +++
 
 ## What this page is for
@@ -21,7 +23,7 @@ Before you start normal engineering work, make sure all of the following are tru
 2. MFA or 2FA is enabled on every work account that supports it.
 3. Work passwords and secrets live in 1Password rather than in the browser.
 4. Your laptop has full-disk encryption, automatic locking, and OS updates enabled.
-5. You know who to contact for access problems: Walter first, then Robin if Walter is unavailable.
+5. You know who to contact for access problems: Technology lead (Walter) first, then People lead (Robin) if Walter is unavailable.
 
 ## Default toolkit
 

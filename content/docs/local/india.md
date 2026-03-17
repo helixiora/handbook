@@ -5,6 +5,8 @@ weight = 220
 kicker = "Local"
 lead = "Local India employment details that complement the global handbook."
 description = "India-specific holiday approach, exception hiring policy, and Deel setup guidance."
+owner = "people"
+applies_to = "People engaged through India exception hiring"
 +++
 
 ## What this page is for
@@ -25,7 +27,7 @@ We do not observe a fixed India national-holiday list. India has many public hol
 
 This works alongside our unlimited holiday leave policy. We will formalize India-specific guidance further over time.
 
-When in doubt, discuss your holiday plan with Robin.
+When in doubt, discuss your holiday plan with the People lead (Robin).
 
 ## Hiring policy for India
 
@@ -33,7 +35,7 @@ NOTICE: We do not normally hire in India as a standard location (outside NL hiri
 
 ## Who owns or approves it
 
-Until we have a formal People Operations function, Robin owns this appendix and approves any India exception hiring case.
+Until we have a formal People Operations function, the People lead (Robin) owns this appendix and approves any India exception hiring case.
 
 ## Where to go in the tool stack
 
@@ -41,7 +43,7 @@ We hire in India through [Deel](https://www.deel.com/country-explorer/india). Yo
 
 ## What happens if something goes wrong
 
-If holiday planning, hiring status, or Deel setup details are unclear, raise it with Robin before taking action.
+If holiday planning, hiring status, or Deel setup details are unclear, raise it with the People lead (Robin) before taking action.
 
 ## Related pages
 

@@ -5,6 +5,8 @@ weight = 18
 kicker = "Collaboration"
 lead = "Clear communication keeps a distributed team effective: use the right channel, make expectations explicit, and leave durable records."
 description = "Slack etiquette, meeting hygiene, response expectations, and time zone handoff guidance."
+owner = "leadership"
+applies_to = "All employees and contractors"
 +++
 
 ## What this page is for
@@ -24,7 +26,7 @@ This page sets communication norms so remote collaboration stays clear, respectf
 
 ## Who owns or approves it
 
-Robin and Walter model these norms and own policy wording and escalation guidance.
+Leadership models these norms and owns policy wording and escalation guidance.
 
 ## Where to go in the tool stack
 

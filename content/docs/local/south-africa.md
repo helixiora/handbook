@@ -5,6 +5,8 @@ weight = 230
 kicker = "Local"
 lead = "Local South Africa employment details that complement the global handbook."
 description = "South Africa-specific holiday approach, exception hiring policy, and Deel setup guidance."
+owner = "people"
+applies_to = "People engaged through South Africa exception hiring"
 +++
 
 ## What this page is for
@@ -25,7 +27,7 @@ We do not observe a fixed South Africa national-holiday list. South Africa has m
 
 This works alongside our unlimited holiday leave policy. We will formalize South Africa-specific guidance further over time.
 
-When in doubt, discuss your holiday plan with Robin.
+When in doubt, discuss your holiday plan with the People lead (Robin).
 
 ## Hiring policy for South Africa
 
@@ -33,15 +35,15 @@ NOTICE: We do not normally hire in South Africa as a standard location (outside 
 
 ## Who owns or approves it
 
-Until we have a formal People Operations function, Robin owns this appendix and approves any South Africa exception hiring case.
+Until we have a formal People Operations function, the People lead (Robin) owns this appendix and approves any South Africa exception hiring case.
 
 ## Where to go in the tool stack
 
-Unless you happen to have Dutch citizenship, we hire in South Africa through [Deel](https://www.deel.com/country-explorer/south-africa). You are expected to arrange your employment paperwork and finance-related setup through Deel. If you have Dutch citizenship, you fall under the Netherlands appendix.
+South Africa exception hiring normally runs through [Deel](https://www.deel.com/country-explorer/south-africa). You are expected to arrange your employment paperwork and finance-related setup through Deel. If your employment setup is instead handled through the Netherlands route, follow the Netherlands appendix.
 
 ## What happens if something goes wrong
 
-If holiday planning, hiring status, or Deel setup details are unclear, raise it with Robin before taking action.
+If holiday planning, hiring status, or Deel setup details are unclear, raise it with the People lead (Robin) before taking action.
 
 ## Related pages
 

@@ -5,6 +5,8 @@ weight = 30
 kicker = "Finance"
 lead = "If you spend company money, the process should be obvious: know what is reimbursable, keep the receipt, and file it in the right place on time."
 description = "Expenses policy for reimbursable spending, submission steps, and approval requirements."
+owner = "people"
+applies_to = "Anyone submitting company expenses"
 +++
 
 ## Where to file expenses
@@ -13,7 +15,7 @@ Helixiora does not currently use one universal expense portal.
 
 - If your setup runs through Deel, submit expenses there.
 - Otherwise, use the email route that matches your contract form.
-- If you are unsure which route applies to you, ask Robin before submitting.
+- If you are unsure which route applies to you, ask the People lead (Robin) before submitting.
 
 For system ownership and routing, see [Tools & Support](/docs/tools-and-support/).
 
@@ -32,7 +34,7 @@ Each claim should include:
 | Business travel | Reimbursable with receipt |
 | Client meals | Reimbursable when work-related and reasonable |
 | Home office items | Pre-approval required |
-| Software or subscriptions | Buy only after Robin or Walter approval |
+| Software or subscriptions | Buy only after People or Technology lead approval |
 | Personal purchases | Not reimbursable |
 
 When in doubt, ask before spending rather than after.
@@ -43,7 +45,7 @@ When in doubt, ask before spending rather than after.
 2. Upload or attach the receipt within 10 calendar days.
 3. Choose the right category.
 4. Add the business reason in one sentence.
-5. Make sure Robin or Walter is aware in advance if the cost is unusual, travel-related, or over EUR 200.
+5. Make sure the People lead or Technology lead is aware in advance if the cost is unusual, travel-related, or over EUR 200.
 
 Reimbursement timing follows the normal payment cycle for your employment or contract setup.
 

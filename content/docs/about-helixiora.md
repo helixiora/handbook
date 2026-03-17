@@ -5,6 +5,8 @@ weight = 8
 kicker = "Company Context"
 lead = "Helixiora helps customers solve practical AI and data challenges through consulting, hands-on engineering, and continuous learning."
 description = "Employee-facing overview of Helixiora's mission, operating model, values, and leadership approach."
+owner = "leadership"
+applies_to = "All employees and contractors"
 +++
 
 ## What this page is for
@@ -47,10 +49,10 @@ The formal org chart will evolve as Helixiora grows, but the operating map today
 - Walter is CTO. He leads technology, engineering, tooling, infrastructure, and urgent IT issues.
 - There are currently no other managers in the company.
 - Individual contributors own execution, documentation, and early escalation of blockers.
-- Payroll questions and people-policy escalation go to Robin.
-- Access, devices, tooling, and urgent IT issues go to Walter.
+- Payroll questions and people-policy escalation go to the People lead (Robin).
+- Access, devices, tooling, and urgent IT issues go to the Technology lead (Walter).
 
-If you are unsure who owns a decision, raise it directly with Robin or Walter instead of letting the issue stall.
+If you are unsure who owns a decision, raise it directly with the People lead or Technology lead instead of letting the issue stall.
 
 ## Performance expectations
 
@@ -63,7 +65,7 @@ Good performance at Helixiora means:
 
 ## Who owns or approves it
 
-Robin and Walter own this page.
+Leadership owns this page.
 
 ## Location and ways of working
 
