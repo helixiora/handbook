@@ -56,6 +56,20 @@ Experimentation does not override common sense.
 
 For the baseline security rules, also read [Security & Data Handling](/docs/security-and-data-handling/).
 
+## Shadow AI and undeclared tooling
+
+Helixiora wants experimentation, but it does not want shadow AI.
+
+Shadow AI means using AI tools, agents, plugins, or automations in ways that bypass normal visibility on security, client restrictions, or spend.
+
+- You do not need pre-approval for every low-risk experiment.
+- You do need to raise it before using a new AI tool with sensitive company data, client data, source code, inboxes, document stores, or recurring paid usage.
+- Do not connect unreviewed AI tools to company or client systems just because the setup is easy.
+- Do not hide AI-assisted workflows when a client, contract, or internal process requires disclosure or review.
+- If you notice undeclared AI tooling creating risk, raise it quickly so the team can review it and either approve it, constrain it, or stop using it.
+
+Undisclosed or policy-bypassing AI use is treated as a security and conduct issue, not as healthy experimentation.
+
 ## Share what you learn
 
 When you find something genuinely useful, bring it back to the team. A short Slack post, a quick demo, or a practical write-up is usually enough.
