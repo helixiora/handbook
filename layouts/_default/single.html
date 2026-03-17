@@ -1,12 +1,34 @@
 {{ define "main" }}
-  {{ $related := first 3 (where (where site.RegularPages "Section" .Section) "Permalink" "ne" .Permalink) }}
+  {{ $parent := .Parent }}
+  {{ $siblings := slice }}
+  {{ if $parent }}
+    {{ $siblings = $parent.RegularPages.ByWeight }}
+  {{ end }}
+  {{ $currentIndex := -1 }}
+  {{ range $index, $page := $siblings }}
+    {{ if eq $page.RelPermalink $.RelPermalink }}
+      {{ $currentIndex = $index }}
+    {{ end }}
+  {{ end }}
+  {{ $previous := false }}
+  {{ if gt $currentIndex 0 }}
+    {{ $previous = index $siblings (sub $currentIndex 1) }}
+  {{ end }}
+  {{ $next := false }}
+  {{ if and (ge $currentIndex 0) (lt (add $currentIndex 1) (len $siblings)) }}
+    {{ $next = index $siblings (add $currentIndex 1) }}
+  {{ end }}
+  {{ $toc := .TableOfContents }}
   <section class="page-hero slim">
     <div class="container article-hero">
       <p class="eyebrow">{{ .Params.kicker | default (.Section | humanize) }}</p>
       <h1>{{ .Title }}</h1>
       <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
       <div class="article-meta">
-        <span>Updated {{ .Date.Format "2 January 2006" }}</span>
+        <span>Last reviewed {{ .Lastmod.Format "2 January 2006" }}</span>
+        {{ with $parent }}
+          <span>In <a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+        {{ end }}
         <span>{{ .ReadingTime }} min read</span>
       </div>
     </div>
@@ -15,17 +37,56 @@
   <section class="article-shell">
     <div class="container article-grid">
       <aside class="article-sidebar">
-        <div class="sidebar-panel">
-          <p class="sidebar-label">On this page</p>
-          <div class="toc-shell">
-            {{ .TableOfContents }}
+        {{ if in $toc "<li>" }}
+          <div class="sidebar-panel">
+            <p class="sidebar-label">On this page</p>
+            <div class="toc-shell">
+              {{ $toc }}
+            </div>
           </div>
+        {{ end }}
+        <div class="sidebar-panel">
+          <p class="sidebar-label">Page details</p>
+          <dl class="sidebar-meta">
+            {{ with $parent }}
+              <div>
+                <dt>Section</dt>
+                <dd><a href="{{ .RelPermalink }}">{{ .Title }}</a></dd>
+              </div>
+            {{ end }}
+            <div>
+              <dt>Last reviewed</dt>
+              <dd>{{ .Lastmod.Format "2 January 2006" }}</dd>
+            </div>
+            {{ with .Params.owner }}
+              <div>
+                <dt>Owner</dt>
+                <dd>{{ . }}</dd>
+              </div>
+            {{ end }}
+            {{ with .Params.applies_to }}
+              <div>
+                <dt>Applies to</dt>
+                <dd>{{ . }}</dd>
+              </div>
+            {{ end }}
+          </dl>
         </div>
         <div class="sidebar-panel">
-          <p class="sidebar-label">More pages</p>
+          <p class="sidebar-label">More in {{ with $parent }}{{ .Title }}{{ else }}this handbook{{ end }}</p>
           <div class="sidebar-links">
-            {{ range $related }}
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with $parent }}
+              <a href="{{ .RelPermalink }}">Browse {{ .Title }}</a>
+            {{ else }}
+              {{ with site.GetPage "/docs" }}
+                <a href="{{ .RelPermalink }}">Browse the handbook index</a>
+              {{ end }}
+            {{ end }}
+            {{ with $previous }}
+              <a href="{{ .RelPermalink }}">Previous: {{ .Title }}</a>
+            {{ end }}
+            {{ with $next }}
+              <a href="{{ .RelPermalink }}">Next: {{ .Title }}</a>
             {{ end }}
           </div>
         </div>

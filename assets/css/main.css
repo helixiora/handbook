@@ -532,6 +532,20 @@ body.kind-home .section-head {
   gap: 1rem;
 }
 
+.path-copy {
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+}
+
+.path-copy p {
+  margin: 0;
+}
+
+.path-copy .button {
+  justify-self: start;
+}
+
 .path-list li {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -604,6 +618,32 @@ body.kind-home .section-head {
 .toc-shell a,
 .sidebar-links a {
   color: var(--ink-700);
+  line-height: 1.5;
+}
+
+.sidebar-meta {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0;
+}
+
+.sidebar-meta div {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.sidebar-meta dt {
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gold-500);
+}
+
+.sidebar-meta dd {
+  margin: 0;
+  color: var(--navy-900);
+  font-weight: 700;
   line-height: 1.5;
 }
 

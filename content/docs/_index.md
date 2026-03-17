@@ -1,7 +1,9 @@
 +++
 title = "Employee Handbook"
 description = "Operational handbook pages for how Helixiora works, communicates, and supports employees."
+kicker = "Handbook"
 lead = "Use this hub to find practical guidance fast: where to start, how work gets done, and where to go when something needs action."
+panel = "Start with welcome and first-day pages, then move through working norms, leave, expenses, travel, and support. Use the local appendices only when country-specific rules change the default."
 +++
 
 Use this section as the operational source of truth for employees. Keep pages practical, explicit, and easy to scan.
