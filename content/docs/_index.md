@@ -21,6 +21,7 @@ Use this section as the operational source of truth for employees. Keep pages pr
 - [AI & Experimentation](/docs/ai-and-experimentation/)
 - [Communication & Meetings](/docs/communication-and-meetings/)
 - [Growth & Feedback](/docs/growth-and-feedback/)
+- [Quarterly Pulse](/docs/quarterly-pulse/)
 - [People Policies](/docs/people-policies/)
 
 ## Money, leave, and travel
