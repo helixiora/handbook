@@ -1,6 +1,6 @@
 +++
 title = "Quarterly Pulse"
-date = 2026-05-12T09:00:00+02:00
+date = 2026-05-11T22:00:00+02:00
 weight = 56
 kicker = "Development"
 lead = "Quarterly Pulse is our lightweight review rhythm for staying aligned on role fit, growth, performance, and happiness."
