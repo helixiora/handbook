@@ -1,6 +1,6 @@
 +++
 title = "People Policies"
-date = 2026-03-16T08:33:00+01:00
+date = 2026-05-12T09:00:00+02:00
 weight = 60
 kicker = "Policies"
 lead = "This page summarizes core people policies in plain language and points to the right escalation route when issues arise."
@@ -22,7 +22,7 @@ Know and follow policies on:
 - Conflicts of interest and disclosure expectations
 - Grievance and escalation pathways
 - Disciplinary consequences for serious or repeated policy breaches
-- Whistleblowing route (if applicable)
+- Internal reporting route for serious integrity or whistleblowing concerns
 
 ## Reporting route
 
@@ -37,6 +37,19 @@ Use that same routing for:
 - interpersonal grievances or behavior issues
 - conflicts of interest and disclosure questions
 - serious integrity or whistleblowing concerns
+
+## Whistleblowing and serious integrity concerns
+
+Helixiora is currently a small company below the 50-person threshold and is not operating in a regulated sector that requires a formal internal whistleblowing procedure at smaller size.
+
+Even so, serious integrity concerns should have a clear internal route:
+
+- Report the concern to the People lead (Robin), or to the Technology lead (Walter) if that route is not appropriate.
+- Include the facts, dates, people or systems involved, and any supporting context you can safely share.
+- Concerns are handled confidentially as far as practical.
+- Retaliation for raising a concern in good faith is not acceptable.
+
+If Helixiora grows past the relevant threshold or enters a regulated sector where a formal procedure is required, this page must be updated before relying on this lightweight route.
 
 ## Disciplinary process
 
