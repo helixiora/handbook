@@ -1,6 +1,6 @@
 +++
 title = "AI & Experimentation"
-date = 2026-03-16T09:05:00+01:00
+date = 2026-05-12T09:00:00+02:00
 weight = 16
 kicker = "Company DNA"
 lead = "Helixiora expects people to keep looking for the next best thing in AI: experiment continuously, improve how you work, and use judgment on cost, security, and customer context."
@@ -52,6 +52,7 @@ Experimentation does not override common sense.
 
 - Follow client restrictions, NDAs, and data-handling requirements.
 - Do not paste sensitive company or client material into tools that are not appropriate for that data.
+- Follow the customer's AI policy when working in a customer environment, even if Helixiora's internal policy would be more permissive.
 - If a client context makes AI usage unclear, ask before using it.
 
 For the baseline security rules, also read [Security & Data Handling](/docs/security-and-data-handling/).
@@ -66,9 +67,18 @@ Shadow AI means using AI tools, agents, plugins, or automations in ways that byp
 - You do need to raise it before using a new AI tool with sensitive company data, client data, source code, inboxes, document stores, or recurring paid usage.
 - Do not connect unreviewed AI tools to company or client systems just because the setup is easy.
 - Do not hide AI-assisted workflows when a client, contract, or internal process requires disclosure or review.
+- Do not use AI tools to make employment, customer, financial, legal, or similarly material decisions without human review and clear accountability.
 - If you notice undeclared AI tooling creating risk, raise it quickly so the team can review it and either approve it, constrain it, or stop using it.
 
 Undisclosed or policy-bypassing AI use is treated as a security and conduct issue, not as healthy experimentation.
+
+## AI regulation awareness
+
+Helixiora is not trying to turn day-to-day experimentation into a compliance bureaucracy. Still, EU AI rules are now part of the operating context.
+
+Everyone using AI at work should understand the basics: prohibited AI practices are not allowed, customer policies take precedence in customer environments, and higher-risk uses need more care than ordinary productivity assistance.
+
+If you are building or deploying AI for a customer, especially where the system could affect people, access, money, employment, education, safety, or legal rights, involve the Technology lead early so the work can be checked against the customer policy and applicable regulatory expectations.
 
 ## Share what you learn
 

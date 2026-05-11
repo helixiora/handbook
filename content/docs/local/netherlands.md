@@ -1,6 +1,6 @@
 +++
 title = "Netherlands Appendix"
-date = 2026-03-16T08:37:00+01:00
+date = 2026-05-12T09:00:00+02:00
 weight = 210
 kicker = "Local"
 lead = "Local Dutch employment details that complement the global handbook."
@@ -31,9 +31,11 @@ We employ in the Netherlands through these forms:
 2. 0-hours contracts.
 3. Internships with a monthly internship fee of EUR 500.
 
-## Dutch public holidays (official)
+## Dutch public holidays
 
-We follow official Dutch public holidays.
+Helixiora treats official Dutch public holidays as paid days off for Netherlands employees.
+
+Dutch law does not automatically make every official public holiday a paid day off for every employee. This is a Helixiora employment policy for the Netherlands setup, subject to the employment contract and applicable law.
 
 Reference: Dutch government public holiday overview at [Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/feestdagen).
 
@@ -67,8 +69,8 @@ Reference: Dutch government public holiday overview at [Rijksoverheid](https://w
 
 ## Sick leave by contract type
 
-- 0-hours contract: if you are sick, there is no pay for those hours.
-- Contract-based employment (including full-time staff): sick leave remains paid in line with the contract.
+- 0-hours contract: sick pay depends on whether hours had already been accepted or scheduled, the contract, and Dutch law. If this applies to you, contact the People lead so the case is handled correctly.
+- Contract-based employment (including full-time staff): sick leave remains paid in line with the contract and Dutch law.
 
 For background on call-based contracts (including 0-hours structures), see the Dutch government guidance on [oproepcontracten](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/wat-is-een-oproepcontract).
 

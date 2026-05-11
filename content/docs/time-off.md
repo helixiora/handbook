@@ -1,6 +1,6 @@
 +++
 title = "Time Off & Holidays"
-date = 2026-03-16T08:05:00+01:00
+date = 2026-05-12T09:00:00+02:00
 weight = 20
 kicker = "Leave"
 lead = "Employees should be able to answer two questions quickly: how much leave they get, and exactly how they request it."
@@ -16,7 +16,7 @@ Helixiora uses an unlimited paid holiday leave approach, based on responsible pl
 | Leave type | Policy |
 | --- | --- |
 | Annual leave | Unlimited paid leave, planned with the People lead |
-| Public holidays | Follow location-specific handling in local appendices |
+| Public holidays | Follow location-specific handling in local appendices; Dutch official public holidays are paid days off for Netherlands employees |
 | Planning expectation | Balance team coverage and customer commitments |
 | Approval model | Submit and agree leave in advance where possible |
 
