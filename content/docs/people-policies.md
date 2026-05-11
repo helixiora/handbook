@@ -1,6 +1,6 @@
 +++
 title = "People Policies"
-date = 2026-05-12T09:00:00+02:00
+date = 2026-05-11T22:00:00+02:00
 weight = 60
 kicker = "Policies"
 lead = "This page summarizes core people policies in plain language and points to the right escalation route when issues arise."

@@ -1,6 +1,6 @@
 +++
 title = "AI & Experimentation"
-date = 2026-05-12T09:00:00+02:00
+date = 2026-05-11T22:00:00+02:00
 weight = 16
 kicker = "Company DNA"
 lead = "Helixiora expects people to keep looking for the next best thing in AI: experiment continuously, improve how you work, and use judgment on cost, security, and customer context."

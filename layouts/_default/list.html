@@ -1,23 +1,119 @@
 {{ define "main" }}
   {{ $pages := sort .RegularPages "Weight" }}
-  <section class="page-hero">
-    <div class="container page-hero-shell">
-      <div>
-        <p class="eyebrow">{{ .Params.kicker | default (.Section | default "Helixiora" | humanize) }}</p>
-        <h1>{{ .Title }}</h1>
-        <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
+  {{ if eq .RelPermalink "/docs/" }}
+    {{ $docsPages := where site.RegularPages "Section" "docs" }}
+    {{ $docsPages = sort $docsPages "Weight" }}
+    {{ $sections := sort .Sections "Weight" }}
+    {{ $entryCount := add (len $docsPages) (len $sections) }}
+    <section class="page-hero docs-hero">
+      <div class="container docs-hero-shell">
+        <div>
+          <p class="eyebrow">{{ .Params.kicker | default (.Section | default "Helixiora" | humanize) }}</p>
+          <h1>{{ .Title }}</h1>
+          <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
+        </div>
+        <div class="docs-hero-summary" aria-label="Handbook summary">
+          <div class="docs-hero-art">
+            <img src="/images/docs-hero-knowledge.png" alt="" loading="eager" decoding="async">
+          </div>
+          <div>
+            <strong>{{ len $docsPages }}</strong>
+            <span>Published pages</span>
+          </div>
+          <div>
+            <strong>{{ len $sections }}</strong>
+            <span>Appendix areas</span>
+          </div>
+          <p>{{ .Params.panel | default "Start with welcome and first-day pages, then move through working norms, leave, expenses, travel, and support. The goal is quick operational clarity, not policy sprawl." }}</p>
+        </div>
       </div>
-      <div class="page-hero-panel">
-        <p>{{ .Params.panel | default "Start with welcome and first-day pages, then move through working norms, leave, expenses, travel, and support. The goal is quick operational clarity, not policy sprawl." }}</p>
-      </div>
-    </div>
-  </section>
+    </section>
 
-  <section class="section-shell alt-shell">
-    <div class="container doc-grid">
-      {{ range $pages }}
-        {{ partial "doc-card.html" . }}
-      {{ end }}
-    </div>
-  </section>
+    <section class="docs-directory-shell">
+      <div class="container docs-directory">
+        <aside class="docs-start-panel" aria-labelledby="docs-start-title">
+          <p class="eyebrow">Start here</p>
+          <h2 id="docs-start-title">Fast paths</h2>
+          <img class="docs-start-art" src="/images/docs-fast-paths.png" alt="" loading="lazy" decoding="async">
+          <nav class="docs-quick-links" aria-label="Recommended handbook paths">
+            {{ range slice "/docs/welcome" "/docs/first-day" "/docs/engineering-starter-kit" "/docs/tools-and-support" "/docs/faq" }}
+              {{ with site.GetPage . }}
+                <a href="{{ .RelPermalink }}">
+                  <span>{{ .Params.kicker | default "Handbook" }}</span>
+                  <strong>{{ .Title }}</strong>
+                </a>
+              {{ end }}
+            {{ end }}
+          </nav>
+        </aside>
+
+        <div class="docs-directory-main">
+          {{ $groups := slice
+            (dict "title" "Company and onboarding" "summary" "Orientation, company context, and first-week setup." "image" "/images/docs-category-company.png" "refs" (slice "/docs/welcome" "/docs/about-helixiora" "/docs/first-day" "/docs/engineering-starter-kit"))
+            (dict "title" "Ways of working" "summary" "Operating norms, AI experimentation, communication, and growth." "image" "/images/docs-category-ways.png" "refs" (slice "/docs/how-we-work" "/docs/ai-and-experimentation" "/docs/communication-and-meetings" "/docs/growth-and-feedback" "/docs/quarterly-pulse"))
+            (dict "title" "People operations" "summary" "Leave, compensation, expenses, travel, gatherings, and policy basics." "image" "/images/docs-category-people.png" "refs" (slice "/docs/time-off" "/docs/compensation-and-benefits" "/docs/expenses" "/docs/travel-and-helixiora-connect" "/docs/helixiora-connect" "/docs/people-policies" "/docs/offboarding"))
+            (dict "title" "Security and support" "summary" "Systems, access, data handling, quick answers, and country-specific details." "image" "/images/docs-category-security.png" "refs" (slice "/docs/tools-and-support" "/docs/security-and-data-handling" "/docs/faq" "/docs/local"))
+          }}
+
+          <div class="docs-group-grid">
+            {{ range $groups }}
+              <section class="docs-group" aria-labelledby="{{ anchorize .title }}">
+                <img class="docs-group-art" src="{{ .image }}" alt="" loading="lazy" decoding="async">
+                <div class="docs-group-head">
+                  <h2 id="{{ anchorize .title }}">{{ .title }}</h2>
+                  <p>{{ .summary }}</p>
+                </div>
+                <div class="docs-row-list">
+                  {{ range .refs }}
+                    {{ with site.GetPage . }}
+                      {{ partial "doc-card.html" (dict "Page" . "Variant" "row") }}
+                    {{ end }}
+                  {{ end }}
+                </div>
+              </section>
+            {{ end }}
+          </div>
+
+          <section class="docs-all" aria-labelledby="docs-all-title">
+            <div class="docs-all-head">
+              <div>
+                <p class="eyebrow">Directory</p>
+                <h2 id="docs-all-title">All handbook pages</h2>
+              </div>
+              <p>Showing {{ $entryCount }} published entries in handbook order; new pages appear here automatically.</p>
+            </div>
+            <div class="docs-index-list">
+              {{ range $docsPages }}
+                {{ partial "doc-card.html" (dict "Page" . "Variant" "index") }}
+              {{ end }}
+              {{ range $sections }}
+                {{ partial "doc-card.html" (dict "Page" . "Variant" "index") }}
+              {{ end }}
+            </div>
+          </section>
+        </div>
+      </div>
+    </section>
+  {{ else }}
+    <section class="page-hero">
+      <div class="container page-hero-shell">
+        <div>
+          <p class="eyebrow">{{ .Params.kicker | default (.Section | default "Helixiora" | humanize) }}</p>
+          <h1>{{ .Title }}</h1>
+          <p class="page-lead">{{ .Params.lead | default .Summary }}</p>
+        </div>
+        <div class="page-hero-panel">
+          <p>{{ .Params.panel | default "Start with welcome and first-day pages, then move through working norms, leave, expenses, travel, and support. The goal is quick operational clarity, not policy sprawl." }}</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell alt-shell">
+      <div class="container doc-grid">
+        {{ range $pages }}
+          {{ partial "doc-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 {{ end }}

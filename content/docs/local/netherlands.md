@@ -1,6 +1,6 @@
 +++
 title = "Netherlands Appendix"
-date = 2026-05-12T09:00:00+02:00
+date = 2026-05-11T22:00:00+02:00
 weight = 210
 kicker = "Local"
 lead = "Local Dutch employment details that complement the global handbook."

@@ -1,6 +1,6 @@
 +++
 title = "Time Off & Holidays"
-date = 2026-05-12T09:00:00+02:00
+date = 2026-05-11T22:00:00+02:00
 weight = 20
 kicker = "Leave"
 lead = "Employees should be able to answer two questions quickly: how much leave they get, and exactly how they request it."

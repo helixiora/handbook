@@ -1,9 +1,34 @@
-<article class="doc-card">
-  <div class="doc-card-meta">
-    <span>{{ .Params.kicker | default "Handbook" }}</span>
-    <span>{{ .ReadingTime }} min read</span>
-  </div>
-  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  <p>{{ .Params.lead | default .Summary }}</p>
-  <a class="doc-card-link" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">Read page</a>
-</article>
+{{ $page := . }}
+{{ $variant := "card" }}
+{{ if reflect.IsMap . }}
+  {{ $page = .Page }}
+  {{ $variant = .Variant | default "card" }}
+{{ end }}
+
+{{ if eq $variant "row" }}
+  <article class="doc-row">
+    <div class="doc-row-main">
+      <h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+      <p>{{ $page.Params.lead | default $page.Summary }}</p>
+    </div>
+    <div class="doc-row-meta">
+      <span>{{ $page.Params.kicker | default "Handbook" }}</span>
+      <span>{{ $page.ReadingTime }} min</span>
+    </div>
+  </article>
+{{ else if eq $variant "index" }}
+  <article class="doc-index-row">
+    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+    <span>{{ $page.Params.kicker | default "Handbook" }}</span>
+  </article>
+{{ else }}
+  <article class="doc-card">
+    <div class="doc-card-meta">
+      <span>{{ $page.Params.kicker | default "Handbook" }}</span>
+      <span>{{ $page.ReadingTime }} min read</span>
+    </div>
+    <h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+    <p>{{ $page.Params.lead | default $page.Summary }}</p>
+    <a class="doc-card-link" href="{{ $page.RelPermalink }}" aria-label="Read {{ $page.Title }}">Read page</a>
+  </article>
+{{ end }}
